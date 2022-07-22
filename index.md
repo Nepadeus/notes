@@ -1,5 +1,3 @@
-# **Ruf des Abyss**
-
 <style>
 red { color: red }
 yellow { color: yellow }
