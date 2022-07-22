@@ -1,11 +1,11 @@
 ---
 tags: [DM]
-title: Artefakte
-created: '2022-07-22T18:42:33.699Z'
-modified: '2022-07-22T23:16:04.388Z'
+title: Interessante Orte
+created: '2022-07-22T21:06:43.312Z'
+modified: '2022-07-22T23:15:27.695Z'
 ---
 
-# Artefakte
+# Interessante Orte
 
 <details open>
   <summary>Webnavigation</summary>
@@ -23,11 +23,11 @@ modified: '2022-07-22T23:16:04.388Z'
   <summary>Inhaltsverzeichnis</summary>
   <markdown>
 
-- [Ewige Kompass](#1)
+- [Das Drecksloch](#1)
 - [](#2)
 - [](#3)
 
 </markdown>
 </details>
 
-# <a name="1"></a> Der ewige Kompass
+# <a name="1"></a> Das Drecksloch
