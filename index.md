@@ -3,9 +3,9 @@
 # Webnavigation
     
 - [Ruf des Abyss](index)
-- [[Artefakte]]
-- [[Interessante Orte]]
-- [[Charaktere]]
+- [Artefakte](Artefakte)
+- [Interessante Orte](Interessante Orte)
+- [Charaktere](Charaktere)
     
 # Inhaltsverzeichnis
 
