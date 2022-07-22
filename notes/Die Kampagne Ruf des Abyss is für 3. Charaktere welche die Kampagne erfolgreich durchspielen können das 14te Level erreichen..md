@@ -1,7 +1,10 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
+---
+tags: [DM]
+title: Die Kampagne Ruf des Abyss is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
+created: '2022-07-22T11:58:18.593Z'
+modified: '2022-07-22T22:24:08.793Z'
+---
+
  Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
 
 ## <a name="hintergrund"></a><yellow> Hintergrund </yellow>
@@ -33,7 +36,7 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
 ### Distrikte
 
 <details closed>
-  <summary><yellow>Gondellift</yellow></summary>
+  <summary>Gondellift</summary>
   <markdown>
 ![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054499911667742/orth-lift.webp?width=200)
   </markdown>
@@ -45,7 +48,7 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - Stadtmarkt (Feste, Narungserwerb)
 
 <details closed>
-  <summary><yellow>Windmühlen</yellow></summary>
+  <summary>Windmühlen</summary>
   <markdown>
 ![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054549656125480/orth-windmill.webp?width=200)
   </markdown>
@@ -57,7 +60,7 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - Agrarseite des Abyss
 
 <details closed>
-  <summary><yellow>Westen</yellow></summary>
+  <summary>Westen</summary>
   <markdown>
 ![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp?width=200)
   </markdown>
@@ -69,7 +72,7 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - kleine lokale Shops
 
 <details closed>
-  <summary><yellow>Slums</yellow></summary>
+  <summary>Slums</summary>
   <markdown>
 ![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054528831402004/orth-slum2.webp?width=200)
   </markdown>
@@ -80,11 +83,11 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - Orths Slums
   - Tavernen, billige Unterkünfte
     - _Zur fallenden Kneipe_
-    - [Das Dreckloch](@note/InteressanteOrte.md) (Unterkunft)
+    - [Das Dreckloch](@note/InteressanteOrte.md#das-dreckloch) (Unterkunft)
   - Rauere, gefährlichere Gegend
 
 <details closed>
-  <summary><yellow>Gildenhalle</yellow></summary>
+  <summary>Gildenhalle</summary>
   <markdown>
 ![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054499131523082/orth-guild.webp?width=200)
   </markdown>
@@ -93,3 +96,4 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
 
   - Gildenhalle
   - Schmieden, teuere Läden
+
