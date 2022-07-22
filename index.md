@@ -86,8 +86,8 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
 
   - Orths Slums
   - Tavernen, billige Unterkünfte
-    - _Zur fallenden Kneipe_
-    - [Das Dreckloch](InteressanteOrte#das-dreckloch) (Unterkunft)
+    - [Zur Fallenden Kneipe](Interessante Orte)
+    - [Das Dreckloch](Interessante Orte) (Unterkunft)
   - Rauere, gefährlichere Gegend
 
 <details closed>
