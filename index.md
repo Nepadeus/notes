@@ -1,19 +1,25 @@
 #### Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
+
 <details open>
   <summary>Webnavigation</summary>
   <markdown>
+    
 - [Ruf des Abyss](index)
 - [[Artefakte]]
 - [[Interessante Orte]]
 - [[Charaktere]]
+    
 </markdown>
 </details>
+
 <details open>
   <summary>Inhaltsverzeichnis</summary>
   <markdown>
+    
 - [Hintergrund](#1)
 - [Abenteuer Hook](#2)
 - [Orth](#3)
+    
 </markdown>
 </details>
 
