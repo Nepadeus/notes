@@ -4,7 +4,8 @@
 <details closed>
   <summary>Orth (Vergangenheit)</summary>
   <markdown>
-![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054522284089404/orth-past.webp)
+    ![Image reference][1]
+    [1]: https://cdn.discordapp.com/attachments/1000054154070327356/1000054522284089404/orth-past.webp)
   </markdown>
 </details>
  Vor ein paar Jahrtausenden entdeckte eine Gruppe Abendteurer die Insel mit dem Abyss und besiedelten die Oberfläche sowie die erste Schicht des Abyss. Aufgrund mehrerer Naturphänomene wie, z.B: das Geburtstags-Todes-Phänomen, welches alle 2000 Jahre erneut auftritt, finden sich primär in der ersten Schicht Massengräber, welche sich im Laufe der Zeit angehäuft haben. Da der Abyss als eine Gottheit betrachtet wurde und die Ureinwohner ihn um Vergebung bitten wollten, finden sich viele Skelette in Gebetshaltung. 
