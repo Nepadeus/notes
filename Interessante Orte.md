@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-22T23:26:40.594Z'
+modified: '2022-07-22T23:30:02.743Z'
 ---
 
 # Interessante Orte
@@ -11,7 +11,7 @@ modified: '2022-07-22T23:26:40.594Z'
     
 - [Ruf des Abyss](index)
 - [Artefakte](Artefakte)
-- [Interessante Orte](Interessante Orte)
+- Interessante Orte
 - [Charaktere](Charaktere)
     
 # Inhaltsverzeichnis

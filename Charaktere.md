@@ -2,7 +2,7 @@
 tags: [DM]
 title: Charaktere
 created: '2022-07-22T19:45:46.612Z'
-modified: '2022-07-22T23:26:42.521Z'
+modified: '2022-07-22T23:30:26.842Z'
 ---
 
 # Charaktere
@@ -12,7 +12,7 @@ modified: '2022-07-22T23:26:42.521Z'
 - [Ruf des Abyss](index)
 - [Artefakte](Artefakte)
 - [Interessante Orte](Interessante Orte)
-- [Charaktere](Charaktere)
+- Charaktere
     
 # Inhaltsverzeichnis
 

@@ -2,7 +2,7 @@
 tags: [DM]
 title: Artefakte
 created: '2022-07-22T18:42:33.699Z'
-modified: '2022-07-22T23:26:44.578Z'
+modified: '2022-07-22T23:30:35.722Z'
 ---
 
 # Artefakte
@@ -10,13 +10,13 @@ modified: '2022-07-22T23:26:44.578Z'
 # Webnavigation
     
 - [Ruf des Abyss](index)
-- [Artefakte](Artefakte)
+- Artefakte
 - [Interessante Orte](Interessante Orte)
 - [Charaktere](Charaktere)
     
 # Inhaltsverzeichnis
 
-- [Ewiger Kompassd](#1)
+- [Ewiger Kompass](#1)
 - [](#2)
 - [](#3)
 

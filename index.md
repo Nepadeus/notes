@@ -2,7 +2,7 @@
 
 # Webnavigation
     
-- [Ruf des Abyss](index)
+- Ruf des Abyss
 - [Artefakte](Artefakte)
 - [Interessante Orte](Interessante Orte)
 - [Charaktere](Charaktere)
