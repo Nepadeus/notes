@@ -2,32 +2,24 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-22T23:15:27.695Z'
+modified: '2022-07-22T23:23:56.473Z'
 ---
 
 # Interessante Orte
 
-<details open>
-  <summary>Webnavigation</summary>
-  <markdown>
-
+# Webnavigation
+    
 - [Ruf des Abyss](index)
 - [[Artefakte]]
 - [[Interessante Orte]]
 - [[Charaktere]]
-
-</markdown>
-</details>
-
-<details open>
-  <summary>Inhaltsverzeichnis</summary>
-  <markdown>
+    
+# Inhaltsverzeichnis
 
 - [Das Drecksloch](#1)
-- [](#2)
+- [Zur Fallenden Kneipe](#2)
 - [](#3)
 
-</markdown>
-</details>
-
 # <a name="1"></a> Das Drecksloch
+
+# <a name="1"></a> Zur Fallenden Kneipe
