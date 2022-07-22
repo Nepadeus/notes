@@ -1,10 +1,3 @@
----
-tags: [DM]
-title: Die Kampagne Ruf des Abyss is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
-created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-22T22:32:02.274Z'
----
-
 #### Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
 
 ## <a name="hintergrund"></a><yellow> Hintergrund </yellow>
@@ -83,7 +76,7 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - Orths Slums
   - Tavernen, billige Unterkünfte
     - _Zur fallenden Kneipe_
-    - [Das Dreckloch](InteressanteOrte.md#das-dreckloch) (Unterkunft)
+    - [Das Dreckloch](InteressanteOrte#das-dreckloch) (Unterkunft)
   - Rauere, gefährlichere Gegend
 
 <details closed>
