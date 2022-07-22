@@ -54,10 +54,8 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
   - Agrarseite des Abyss
 
 <details closed>
-  <summary>Westen</summary>
-  <markdown>
-![Image](https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp)
-  </markdown>
+  <summary>Waisenhaus</summary>
+  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp" alt="Waisenhaus">
 </details>
 
 #### Westdistrikt
