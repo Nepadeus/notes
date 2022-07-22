@@ -2,7 +2,7 @@
 tags: [DM]
 title: Artefakte
 created: '2022-07-22T18:42:33.699Z'
-modified: '2022-07-22T23:22:49.637Z'
+modified: '2022-07-22T23:26:44.578Z'
 ---
 
 # Artefakte
@@ -10,9 +10,9 @@ modified: '2022-07-22T23:22:49.637Z'
 # Webnavigation
     
 - [Ruf des Abyss](index)
-- [[Artefakte]]
-- [[Interessante Orte]]
-- [[Charaktere]]
+- [Artefakte](Artefakte)
+- [Interessante Orte](Interessante Orte)
+- [Charaktere](Charaktere)
     
 # Inhaltsverzeichnis
 

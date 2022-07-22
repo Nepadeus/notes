@@ -2,7 +2,7 @@
 tags: [DM]
 title: Charaktere
 created: '2022-07-22T19:45:46.612Z'
-modified: '2022-07-22T23:23:09.337Z'
+modified: '2022-07-22T23:26:42.521Z'
 ---
 
 # Charaktere
@@ -10,9 +10,9 @@ modified: '2022-07-22T23:23:09.337Z'
 # Webnavigation
     
 - [Ruf des Abyss](index)
-- [[Artefakte]]
-- [[Interessante Orte]]
-- [[Charaktere]]
+- [Artefakte](Artefakte)
+- [Interessante Orte](Interessante Orte)
+- [Charaktere](Charaktere)
     
 # Inhaltsverzeichnis
 
