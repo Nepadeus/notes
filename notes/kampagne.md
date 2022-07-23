@@ -1,15 +1,15 @@
 ---
 favorited: true
 tags: [DM]
-title: index
+title: kampagne
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-23T16:50:31.063Z'
+modified: '2022-07-23T16:58:28.092Z'
 ---
 
-<div class="meta_for_parser tablespecs" style="visibility:hidden">index</div>
+<div class="meta_for_parser tablespecs" style="visibility:hidden">kampagne</div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="index">Ruf des Abyss</a>
+  <a class="navbar-brand" href="kampagne">Ruf des Abyss</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
