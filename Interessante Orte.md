@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T23:09:11.605Z'
+modified: '2022-07-23T23:17:41.082Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
@@ -10,18 +10,18 @@ modified: '2022-07-23T23:09:11.605Z'
   <div class="nav" markdown="1" align="center">
 
 1. ### [Orth](#13)
-> [Tore zum Abyss](#3)
-> [Das Große Pier](#4)
-> [Stadtmarkt](#5)
-> [Orths Windmühlen](#6)
-> [Waisenhaus](7)
-> [Zum jungen Forscher](#8)
-> [Orths Slums](#9)
-> [Das Drecksloch](#1)
-> [Zur Fallenden Kneipe](#2)
-> [Gildenhalle](#10)
-> [Zum feurigen Splitjaw](#11)
-> [Die Goldene Pfeife](#12)
+> - [Tore zum Abyss](#3)
+> - [Das Große Pier](#4)
+> - [Stadtmarkt](#5)
+> - [Orths Windmühlen](#6)
+> - [Waisenhaus](7)
+> - [Zum jungen Forscher](#8)
+> - [Orths Slums](#9)
+> - [Das Drecksloch](#1)
+> - [Zur Fallenden Kneipe](#2)
+> - [Gildenhalle](#10)
+> - [Zum feurigen Splitjaw](#11)
+> - [Die Goldene Pfeife](#12)
 
   </div>
   <div class="main" markdown="1" align="center">
