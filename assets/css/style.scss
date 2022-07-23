@@ -3,11 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.nav_list {
-    display: flex;
-    justify-content: left;
+ul li {
+    list-style-type: none !important;
 }
 
-.nav_item {
-    list-style-type: none !important;
+
+.nav_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
