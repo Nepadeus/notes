@@ -9,7 +9,7 @@ a {
 li {
     list-style-type: none;
 }
-ul.center {
+ul .center {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -17,11 +17,11 @@ ul.center {
     background-color: #333;
 }
 
-li.center {
+li .center {
     float: left;
 }
 
-li.center a {
+li .center a {
     display: block;
     color: white;
     text-align: center;
@@ -29,7 +29,7 @@ li.center a {
     text-decoration: none;
  }
 
- li.center a:hover {
+ li .center a:hover {
     background-color: #111;
  }
 
