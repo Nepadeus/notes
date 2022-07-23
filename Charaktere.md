@@ -2,7 +2,7 @@
 tags: [DM]
 title: Charaktere
 created: '2022-07-22T19:45:46.612Z'
-modified: '2022-07-23T18:53:00.961Z'
+modified: '2022-07-23T18:59:16.507Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Charaktere</div>
@@ -12,9 +12,9 @@ modified: '2022-07-23T18:53:00.961Z'
 
 ## Inhaltsverzeichnis
 
-1. [Nada Shao](#1)
-2. [](#2)
-3. [](#3)
+> [Nada Shao](#1)
+> [](#2)
+> [](#3)
 
 ## <a name="1"></a> Nada Shao
 
