@@ -11,13 +11,10 @@
     height: 90%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
   }
-a {
+li a {
   display: block;
   padding: 4px 8px;
   text-decoration: none;
-}
-li {
-    list-style-type: none;
 }
 ul.center {
     list-style-type: none;
