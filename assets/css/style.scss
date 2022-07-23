@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 
-a {
+.nav {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: hsla(0, 15%, 15%, 15%);
+    background-color: #151515;
     height: 90%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
   }
