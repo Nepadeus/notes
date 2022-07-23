@@ -17,17 +17,7 @@ ul.nav_item, ul.nav_item > li  {
     	display: none;
 }
 
-.nav { 
-    grid-area: nav; 
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: #f1f1f1;
-  height: 100%; /* Full height */
-  position: fixed; /* Make it stick, even on scroll */
-  overflow: auto; 
-}
+.nav { grid-area: nav; }
 .menu { grid-area: menu; }
 .grid-container {
     display: grid;
