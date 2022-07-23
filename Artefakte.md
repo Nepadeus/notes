@@ -2,7 +2,7 @@
 tags: [DM]
 title: Artefakte
 created: '2022-07-22T18:42:33.699Z'
-modified: '2022-07-23T22:05:19.192Z'
+modified: '2022-07-23T22:07:02.474Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Artefakte</div>
@@ -12,23 +12,9 @@ modified: '2022-07-23T22:05:19.192Z'
     
 ## Inhaltsverzeichnis
 
-<ul class="nav">
-  <li class="nav">
-
-[Ewiger Kompass](#1)
-
-  </li>
-  <li class="nav">
-
-[](#2)
-
-  </li>
-  <li class="nav">
-
-[](#3)
-
-  </li>
-</ul>
+> [Ewiger Kompass](#1)
+> [](#2)
+> [](#3)
 
 # <a name="1"></a> Der ewige Kompass
 
