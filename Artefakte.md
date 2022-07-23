@@ -2,7 +2,7 @@
 tags: [DM]
 title: Artefakte
 created: '2022-07-22T18:42:33.699Z'
-modified: '2022-07-23T23:00:35.441Z'
+modified: '2022-07-23T23:45:54.199Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Artefakte</div>
@@ -14,7 +14,7 @@ modified: '2022-07-23T23:00:35.441Z'
 3. [](#3)
 
   </div>
-  <div class="main" markdown="1" align="center">
+  <div class="main" id="padded" markdown="1" align="center">
 
 # Artefakte
 
