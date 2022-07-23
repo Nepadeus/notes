@@ -22,6 +22,6 @@ ul.nav_item, ul.nav_item > li  {
 .grid-container {
     display: grid;
     grid-template-areas:
-      'nav nav menu main main'
+      'nav nav menu main main';
     gap: 10px;
-  }
+}
