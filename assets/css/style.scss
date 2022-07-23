@@ -5,9 +5,6 @@
 
 a {
     list-style-type: none;
-  }
-ul.nav {
-    list-style-type: none;
     margin: 0;
     padding: 0;
     width: 25%;
@@ -16,6 +13,8 @@ ul.nav {
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
   }
+li {
+    list-style-type: none;
 }
 ul.center {
     list-style-type: none;
