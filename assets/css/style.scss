@@ -3,36 +3,11 @@
 
 @import "{{ site.theme }}";
 
-a {
+.nav_list {
+    display: flex;
+    justify-content: left;
+}
+
+.nav_item {
     list-style-type: none;
-}
-li {
-    list-style-type: none;
-}
-ul .center {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-li .center {
-    float: left;
-}
-
-li .center a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
- }
-
- li .center a:hover {
-    background-color: #111;
- }
-
-.center {
-    text-align: center;
 }
