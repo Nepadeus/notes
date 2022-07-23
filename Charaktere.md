@@ -2,7 +2,7 @@
 tags: [DM]
 title: Charaktere
 created: '2022-07-22T19:45:46.612Z'
-modified: '2022-07-23T23:05:54.721Z'
+modified: '2022-07-23T23:45:59.514Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Charaktere</div>
@@ -14,7 +14,7 @@ modified: '2022-07-23T23:05:54.721Z'
 3. [](#3)
 
   </div>
-  <div class="main" markdown="1" align="center">
+  <div class="main" id="padded" markdown="1" align="center">
 
 # Charaktere
 
