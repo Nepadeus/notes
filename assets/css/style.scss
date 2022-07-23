@@ -13,7 +13,10 @@ ul.nav_item, ul.nav_item > li  {
     	display: none;
 }
 
-.nav { grid-area: nav; }
+.nav { 
+    grid-area: nav;
+    position: fixed;
+}
 .menu { grid-area: menu; }
 .grid-container {
     display: grid;
@@ -29,4 +32,7 @@ ul.nav_item, ul.nav_item > li  {
     width: 90%;
     max-width: 90%;
     margin: 0 auto;
+}
+#padded {
+    padding-left: 20%;
 }
