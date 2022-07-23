@@ -19,3 +19,9 @@ ul li {
 ul.nav_item, ul.nav_item > li  {
     	display: none;
 }
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      'nav nav menu main main'
+    gap: 10px;
+  }
