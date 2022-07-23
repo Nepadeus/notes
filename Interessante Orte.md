@@ -2,33 +2,77 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T09:17:20.265Z'
+modified: '2022-07-23T16:33:15.293Z'
 ---
+
+<div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="https://dnd.nepaplexus.de/">Ruf des Abyss</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="Charaktere"> Charaktere <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="Interessante Orte"> Interessante Orte </a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Items
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="Artefakte">Artefakte</a>
+          <a class="dropdown-item" href="Gemsteine">Gemsteine</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="Ausrüstung">Ausrüstung</a>
+          <a class="dropdown-item" href="Waffen">Waffen</a>
+        </div>
+      </li> 
+	<li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="Fauna" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Fauna
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="FaunaL1">Layer 1</a>
+          <a class="dropdown-item" href="FaunaL2">Layer 2</a>
+          <a class="dropdown-item" href="FaunaL3">Layer 3</a>
+          <a class="dropdown-item" href="FaunaL4">Layer 4</a>
+          <a class="dropdown-item" href="FaunaL5">Layer 5</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
 
 # Interessante Orte
 
-# Webnavigation
+## Webnavigation
     
 - [Ruf des Abyss](index)
 - [Artefakte](Artefakte)
 - Interessante Orte
 - [Charaktere](Charaktere)
     
-# Inhaltsverzeichnis
-
-- [Orth](#13)
-  - [Tore zum Abyss](#3)
-  - [Das Große Pier](#4)
-  - [Stadtmarkt](#5)
-  - [Orths Windmühlen](#6)
-  - [Waisenhaus](7)
-  - [Zum jungen Forscher](#8)
-  - [Orths Slums](#9)
-  - [Das Drecksloch](#1)
-  - [Zur Fallenden Kneipe](#2)
-  - [Gildenhalle](#10)
-  - [Zum feurigen Splitjaw](#11)
-  - [Die Goldene Pfeife](#12)
+## Inhaltsverzeichnis
+>
+> - [Orth](#13)
+>   - [Tore zum Abyss](#3)
+>   - [Das Große Pier](#4)
+>   - [Stadtmarkt](#5)
+>   - [Orths Windmühlen](#6)
+>   - [Waisenhaus](7)
+>   - [Zum jungen Forscher](#8)
+>   - [Orths Slums](#9)
+>   - [Das Drecksloch](#1)
+>   - [Zur Fallenden Kneipe](#2)
+>   - [Gildenhalle](#10)
+>   - [Zum feurigen Splitjaw](#11)
+>   - [Die Goldene Pfeife](#12)
 
 # <a name="13"></a> Orth
 
@@ -39,6 +83,7 @@ Zur Spannungsversorgung nutzt die Stadt die etlichen Wasserfälle um mittels Tur
 Öffentliche Plätze werden nicht mittels Strom sondern mit [Leuchtsteinen](Artefakte) bestückt, welche die Straßen auch nachts gut beleuchtet lassen.
 Aufgrund der Größe von Orth ist die Stadtstruktur durchzogen von vielen kleinen, verzwickten Straßen und Brücken, zwischen vielen nah aneinanderstehenden Gebäuden.
 Aufgrund akuter Brandgefahr dieses architektischer Lage sind offene Flammen in Orth verboten und werden schwer bestraft.
+Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum Wärmen und Kochen.
 
 <details closed>
   <summary>Bilder</summary>
