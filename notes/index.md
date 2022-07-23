@@ -1,9 +1,11 @@
 ---
 tags: [DM]
-title: Die Kampagne Ruf des Abyss is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
+title: index
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-22T23:30:18.657Z'
+modified: '2022-07-23T09:22:10.966Z'
 ---
+
+<div class="meta_for_parser tablespecs" style="visibility:hidden">index</div>
 
 #### Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
 
@@ -36,63 +38,9 @@ modified: '2022-07-22T23:30:18.657Z'
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054522690932846/orth-pier.webp" alt="Waisenhaus">
 </details>
 Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unklar wie sie hierherkommen. Sie kennen sich nicht, befinden sich aber in derselben Situation. Im Gespräch mit Nada Shao kann die Gruppe folgendes herausfinden:
-- Sie befinden sich auf der Inselstadt Orth
-- 
+- Sie befinden sich auf der Inselstadt [Orth](Interessante Orte)
 - Aufgrund schlechter Bedingungen fallen alle Transporte von der Insel für den kommenden Monat aus.
 
 
-## <a name="3"></a> Orth
-### Distrikte
 
-<details closed>
-  <summary>Gondellift</summary>
-  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499911667742/orth-lift.webp" alt="Waisenhaus">
-</details>
-
-#### Zentraldistrikt
-  - Tore zum Abyss (Abstiegspunkt zur ersten Ebene)
-  - Das Große Pier (Lift zur ersten Ebene -> 580m Tiefe)
-  - Stadtmarkt (Feste, Narungserwerb)
-
-<details closed>
-  <summary>Windmühlen</summary>
-  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054549656125480/orth-windmill.webp" alt="Waisenhaus">
-</details>
-
-#### Norddistrikt
-
-  - Orths Windmühlen zur Nahrungsverarbeitung
-  - Agrarseite des Abyss
-
-<details closed>
-  <summary>Waisenhaus</summary>
-  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp" alt="Waisenhaus">
-</details>
-
-#### Westdistrikt
-
-  - Waisenhaus mit Kinderarbeitern
-  - kleine lokale Shops
-
-<details closed>
-  <summary>Slums</summary>
-  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054528831402004/orth-slum2.webp" alt="Waisenhaus">
-</details>
-
-#### Süddistrikt
-
-  - Orths Slums
-  - Tavernen, billige Unterkünfte
-    - _Zur fallenden Kneipe_
-    - [Das Dreckloch](Interessante Orte) (Unterkunft)
-  - Rauere, gefährlichere Gegend
-
-<details closed>
-  <summary>Gildenhalle</summary>
-  <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499131523082/orth-guild.webp" alt="Waisenhaus">
-</details>
-#### Ostdistrikt
-
-  - Gildenhalle
-  - Schmieden, teuere Läden
 
