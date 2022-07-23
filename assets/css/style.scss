@@ -3,18 +3,11 @@
 
 @import "{{ site.theme }}";
 
-.nav {
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    background-color: #151515;
-    height: 90%; /* Full height */
-    position: fixed; /* Make it stick, even on scroll */
-  }
-li a {
-  display: block;
-  padding: 4px 8px;
-  text-decoration: none;
+a {
+    list-style-type: none;
+}
+li {
+    list-style-type: none;
 }
 ul.center {
     list-style-type: none;
