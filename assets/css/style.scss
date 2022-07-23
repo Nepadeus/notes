@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
 ul.center {
     list-style-type: none;
     margin: 0;
