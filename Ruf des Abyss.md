@@ -3,21 +3,23 @@ favorited: true
 tags: [DM]
 title: Ruf des Abyss
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-23T18:59:32.795Z'
+modified: '2022-07-23T23:05:58.029Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Ruf des Abyss</div>
-<div class="myWrapper" markdown="1" align="center">
+<div class="grid-container" markdown="1" align="center">
+  <div class="nav" markdown="1" align="center">
+
+1. [Hintergrund](#1)
+2. [Abenteuer Hook](#2)
+3. [Orth](#3)
+
+  </div>
+  <div class="main" markdown="1" align="center">
 
 # Ruf des Abyss
 
 ### Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
-
-## Inhaltsverzeichnis
-
-> [Hintergrund](#1)
-> [Abenteuer Hook](#2)
-> [Orth](#3)
 
 ## <a name="1"></a> Hintergrund
 <details closed>
@@ -40,5 +42,6 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
 - Der Abyss ist ein Ort voller Mysterien, es kann gut sein, dass die Gruppe einen Grund für Ihre Präsenz hier dort finden könnten.
 
 
+  </div>
 </div>
 
