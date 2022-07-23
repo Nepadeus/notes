@@ -3,8 +3,11 @@ favorited: true
 tags: [DM]
 title: Ruf des Abyss
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-23T17:33:57.998Z'
+modified: '2022-07-23T17:39:29.782Z'
 ---
+
+<div class="meta_for_parser tablespecs" style="visibility:hidden">Ruf des Abyss</div>
+<div class="myWrapper" markdown="1" align="center">
 
 # Ruf des Abyss
 
@@ -37,5 +40,5 @@ Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unkl
 - Der Abyss ist ein Ort voller Mysterien, es kann gut sein, dass die Gruppe einen Grund für Ihre Präsenz hier dort finden könnten.
 - 
 
-
+</div>
 

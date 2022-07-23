@@ -2,8 +2,11 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T17:33:23.476Z'
+modified: '2022-07-23T17:41:26.577Z'
 ---
+
+<div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
+<div class="myWrapper" markdown="1" align="center">
 
 # Interessante Orte
 
@@ -183,4 +186,9 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum WÃ
   <summary>Goldene Pfeife</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054524767117342/orth-shop2.webp" alt="Goldene Pfeife">
 </details>
+
+
+
+
+</div>
 
