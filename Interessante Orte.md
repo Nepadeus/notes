@@ -2,14 +2,14 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T23:32:53.411Z'
+modified: '2022-07-23T23:34:08.495Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
 <div class="grid-container" markdown="1" align="center">
   <div class="nav" markdown="1" align="center">
 
-1. ### [Orth](#13)
+### [Orth](#13)
 > - [Tore zum Abyss](#3)
 > - [Das Große Pier](#4)
 > - [Stadtmarkt](#5)
