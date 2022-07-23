@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T18:58:41.841Z'
+modified: '2022-07-23T19:02:39.324Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
@@ -84,8 +84,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W�
 </details>
 
   - [Waisenhaus](7) mit Kinderarbeitern
-  - kleine lokale Shops
-    - [Zum jungen Forscher](#8) 
+  - [Zum jungen Forscher](#8) 
 
 ### Süddistrikt
 
@@ -95,9 +94,8 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W�
 </details>
 
   - [Orths Slums](#9)
-  - Tavernen, billige Unterkünfte
-    - [Zur fallenden Kneipe](#2) 
-    - [Das Dreckloch](#1) (Unterkunft)
+  - [Zur fallenden Kneipe](#2) 
+  - [Das Dreckloch](#1) (Unterkunft)
   - Rauere, gefährlichere Gegend
 
 ### Ostdistrikt
@@ -108,9 +106,8 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W�
 </details>
 
   - [Gildenhalle](#10)
-  - Schmieden, teuere Läden
-    - [Zum feurigen Splitjaw](#11) (Schmiede)
-    - [Die Goldene Pfeife](#12) (Händler)
+  - [Zum feurigen Splitjaw](#11) (Schmiede)
+  - [Die Goldene Pfeife](#12) (Händler)
 
 
 ### <a name="3"></a> Tore zum Abyss
