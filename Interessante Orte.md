@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-24T00:37:49.036Z'
+modified: '2022-07-24T00:56:56.068Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
@@ -110,8 +110,6 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum WÃ
   - [Gildenhalle](#10)
   - [Zum feurigen Splitjaw](#11) (Schmiede)
   - [Die Goldene Pfeife](#12) (HÃ¤ndler)
-
----
 
 ### <a name="3"></a> Tore zum Abyss
 

@@ -1,7 +1,7 @@
 ---
 title: index
 created: '2022-07-23T17:00:46.762Z'
-modified: '2022-07-24T00:52:54.303Z'
+modified: '2022-07-24T00:53:43.241Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">index</div>
@@ -10,7 +10,7 @@ modified: '2022-07-24T00:52:54.303Z'
 
 # Made in Abyss
 
-<img style="display: block; margin-left: auto; margin-right: auto; max-height: 100%;" src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054455481413702/orth2.webp" alt="Made in Abyss">
+<img style="display: block; margin-left: 50%; margin-right: auto; max-height: 100%;" src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054455481413702/orth2.webp" alt="Made in Abyss">
 
 ### DnD 5e Kampaign
 
