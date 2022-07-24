@@ -34,11 +34,11 @@ img {
 }
 .menu { 
     grid-area: menu;
-    height: 97%;
     text-align: center;
  }
 .grid-container {
     margin-top: 3%;
+    height: 97%;
     display: grid;
     grid-template-areas:
       'nav main main main main';
