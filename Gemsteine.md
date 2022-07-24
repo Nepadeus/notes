@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T15:05:21.519Z'
+modified: '2022-07-24T15:17:40.231Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -86,27 +86,27 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
 
 ## 1. Schicht Vorkommen <a name="1"></a>
 
-1. ###	Azurite - blau <a name="a"></a>
+###	Azurite - blau <a name="a"></a>
 
     <table><tr><td>Ablenkung</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Intelligenz</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>9 m</td></tr><tr><td>Dauer</td><td>1 Minute</td></tr><tr><td>Beschreibung</td><td>Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td></tr></table>
 
-2. ###	Banded agate - orange <a name="b"></a>
+###	Banded agate - orange <a name="b"></a>
 
     <table><tr><td>Eletrocution</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Intelligenz</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>1,5 m</td></tr><tr><td>Dauer</td><td>Sofort</td></tr><tr><td>Beschreibung</td><td>Blitze springen vom Stein auf eine Kreatur in deiner Nähe. Trägt diese Kreatur eine Metallene Rüstung hast du einen Vorteil auf deinem Angriff. Bei einem erfolgreichen Treffer erleided die Kreatur 1D8 Blitzschaden und verliert bis zu seinem nächsten Zug die Möglichkeit eine Reaktion zu tätigen. Der Schaden erhöht sich bei Level 5 auf 2D8 und auf Level 11 3D8.</td></tr></table>
 
-3. ###	Blue quartz - blau <a name="c"></a>
+###	Blue quartz - blau <a name="c"></a>
 
     <table><tr><td>Reparatur</td><td>cantrip</td></tr><tr><td>Attribut</td><td>-</td></tr><tr><td>Zeit</td><td>1 Minute</td></tr><tr><td>Reichweite</td><td>Berührung</td></tr><tr><td>Dauer</td><td>Sofort</td></tr><tr><td>Beschreibung</td><td>Du kannst einen Schaden der Fläche 30 cm² oder kleiner mithilfe von Magie rückstandslos beheben.</td></tr></table>
 
-4. ###	Eye agate - gemischt <a name="d"></a>
+###	Eye agate - gemischt <a name="d"></a>
 
     <table><tr><td>Paranoia</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Charisma</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>18 m</td></tr><tr><td>Dauer</td><td>Sofort</td></tr><tr><td>Beschreibung</td><td>Du beleidigst ein Ziel deiner Wahl. Sofern es dich hören kann und eine Sprache versteht muss es einem Weisheitsrettungswurf ablegen oder erhält 1D4 psychischen Schaden und hat einen Nachteil auf seinen nächsten Angriff. Bei Level 5 steigt der Schaden auf 2D4, bei Level 11 auf 3D4</td></tr></table>
 
-5. ###	Hematite - silber <a name="e"></a>
+###	Hematite - silber <a name="e"></a>
 
     <table><tr><td>Licht</td><td>cantrip</td></tr><tr><td>Attribut</td><td>-</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>6 m</td></tr><tr><td>Dauer</td><td>1 Stunde</td></tr><tr><td>Beschreibung</td><td>Der Stein Leuchtet auf und erhellt in einem 6 m Radius alles um dich herum.</td></tr></table>
     
-6. ###	Lapis lazuli - blau <a name="f"></a>
+###	Lapis lazuli - blau <a name="f"></a>
     Verstärker|cantrip
     ---|:---
     Attribut|-
@@ -115,7 +115,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|1 Minute
     Beschreibung|Du erschaffst einen kleinen Effekt 1. Deine Stimme wird 3x Lauter 2. Du erschaffst kleine harmlose Beben im Boden 3. Du erschaffst ein Geräusch von einem beliebigen Ort in Reichweite Es lassen sich bis zu 3 Effekte gleichzeitig für 1 Minute halten.
 
-7. ###	Malachite - grün <a name="g"></a>
+###	Malachite - grün <a name="g"></a>
     GIft versprühen|cantrip
     ---|:---
     Attribut|Intelligenz
@@ -124,7 +124,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|Sofort
     Beschreibung|Du verteilst einen Giftspritzer auf eine Kreatur deiner Wahl oder zwei nebeneinanderstehenden. Dein Ziel muss einen Dex-Rettungswurf ablegen oder es erhält 1D6 Giftschaden. Der Schaden steigt auf Level 5 auf 3D6 und auf Level 7 auf 5D6.
 
-8. ###	Moss agate - grün <a name="h"></a>
+###	Moss agate - grün <a name="h"></a>
     Mentaler upload|Level 1
     ---|:---
     Attribut|-
@@ -133,7 +133,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|Sofort
     Beschreibung|Du wählst ein Objekt deiner Wahl in Reichweite und kannst seine Attribute und Details ermitteln.
 
-9. ###	Obsidian - schwarz <a name="i"></a>
+###	Obsidian - schwarz <a name="i"></a>
     Neurale Lethargie|Level 1
     ---|:---
     Attribut|Weisheit
@@ -142,7 +142,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|Konzentration, 1 Minute
     Beschreibung|Bis zu 3 Kreaturen in deinem Sichtfeld müssen einen Charisma-Rettungswurf ablegen. Bei einem Misserfolg muss er für die Dauer des Effektes 1D4 bei Angriffen und Rettungswürfen abziehen. Auf Level 2 oder höher kann jeweils eine weitere Kreatur erfasst werden.
 
-10. ###	Rhodochrosite -rot <a name="j"></a>
+###	Rhodochrosite -rot <a name="j"></a>
     Beleber|Level 1
     ---|:---
     Attribut|Weisaheit
@@ -151,7 +151,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|Sofort
     Beschreibung|Eine Kreatur die du berührst erhält 1D8 + deinen Weisheitsmodifikator an Trefferpunkten wieder. Auf Level 2 oder höher erhöht sich die Heilung um je 1D8. 
 
-11. ###	Tiger eye -yellow <a name="k"></a>
+###	Tiger eye -yellow <a name="k"></a>
     |
     ---|:---
     Attribut|
@@ -160,7 +160,7 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     Dauer|
     Beschreibung|
 
-12.	Turquoise -türkis <a name="l"></a>
+### Turquoise -türkis <a name="l"></a>
     |
     ---|:---
     Attribut|
