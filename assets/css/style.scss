@@ -24,7 +24,6 @@ ul.nav_item, ul.nav_item > li  {
 }
 
 .nav { 
-    margin-top: 3%;
     grid-area: nav;
     position: fixed;
     list-style-type: none;
@@ -33,6 +32,7 @@ ul.nav_item, ul.nav_item > li  {
 }
 .menu { grid-area: menu; }
 .grid-container {
+    margin-top: 3%;
     display: grid;
     grid-template-areas:
       'nav main main main main';
