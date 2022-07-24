@@ -1,14 +1,14 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T15:02:47.971Z'
+modified: '2022-07-24T15:05:21.519Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
 <div class="grid-container" markdown="1" align="center">
   <div class="nav" markdown="1" align="center">
 
-[Anwendung](#0)
+- [Anwendung](#0)
 [1. Schicht Vorkommen](#1)
 > - [Ablenkung](#a)
 > - [Eletrocution](#b)
