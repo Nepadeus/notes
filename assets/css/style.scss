@@ -36,7 +36,7 @@ img {
     text-align: center;
  }
 .grid-container {
-    margin-top: 3%;
+    scroll-margin-top: 3%;
     height: 97%;
     display: grid;
     grid-template-areas:
@@ -62,7 +62,4 @@ td {
 table {
     border: 2px solid #82dc53;
     text-align: center;
-}
-body {
-    scroll-margin-top: 3%;
 }
