@@ -3,7 +3,7 @@ favorited: true
 tags: [DM]
 title: Ruf des Abyss
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-24T00:17:55.993Z'
+modified: '2022-07-24T15:08:24.264Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Ruf des Abyss</div>
@@ -36,8 +36,8 @@ modified: '2022-07-24T00:17:55.993Z'
   <summary>Orths Pier</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054522690932846/orth-pier.webp" alt="Waisenhaus">
 </details>
-Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von *Nada Shao*, unklar wie sie hierherkommen. Sie kennen sich nicht, befinden sich aber in derselben Situation. Im Gespräch mit Nada Shao kann die Gruppe folgendes herausfinden:
-- Sie befinden sich auf der Inselstadt [Orth](Interessante Orte)
+Eure Gruppe wird am Strand nahe dem Pier des Abyss (Insel) von [*Nada Shao*](Charaktere#1), unklar wie sie hierherkommen. Sie kennen sich nicht, befinden sich aber in derselben Situation. Im Gespräch mit Nada Shao kann die Gruppe folgendes herausfinden:
+- Sie befinden sich auf der Inselstadt [Orth](Interessante Orte#13)
 - Aufgrund schlechter Bedingungen fallen alle Transporte von der Insel für den kommenden Monat aus.
 - Der Abyss ist ein Ort voller Mysterien, es kann gut sein, dass die Gruppe einen Grund für Ihre Präsenz hier dort finden könnten.
 

@@ -2,7 +2,7 @@
 tags: [DM]
 title: Charaktere
 created: '2022-07-22T19:45:46.612Z'
-modified: '2022-07-24T12:12:06.869Z'
+modified: '2022-07-24T15:07:39.871Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Charaktere</div>
@@ -20,20 +20,7 @@ modified: '2022-07-24T12:12:06.869Z'
 
 ## <a name="1"></a> Nada Shao
 
-Merkmal | Beschreibung
----|---
-Beruf | Sanitäter am Pier
-Aussehen| Blaues kurzes Haar, kleine schmächliche Figur, fürsorglicher Blick, Ohrringe, rotes Kreuzarmband
-Fähigkeiten | -Stärke, +Weisheit, ++Intelligenz
-Talente | Gut mit Kindern, Medizinisch Begabt
-Auftreten | Summt beim Verarzten, Zwirbelt mit dem Finger im Haar beim Nachdenken
-Interaktion | Freundlich
-Nützliches Wissen | Stadtinfrastruktur
-Ideal | Leben retten
-Band | Schützt die Menschen
-Schwäche | Anfällig für Aberglauben
-Geheimnis | -
-
+<table><tr><td>Merkmal</td><td>Beschreibung</td></tr><tr><td>Beruf</td><td>Sanitäter am Pier</td></tr><tr><td>Aussehen</td><td>Blaues kurzes Haar, kleine schmächliche Figur, fürsorglicher Blick, Ohrringe, rotes Kreuzarmband</td></tr><tr><td>Fähigkeiten</td><td>-Stärke, +Weisheit, ++Intelligenz</td></tr><tr><td>Talente</td><td>Gut mit Kindern, Medizinisch Begabt</td></tr><tr><td>Auftreten</td><td>Summt beim Verarzten, Zwirbelt mit dem Finger im Haar beim Nachdenken</td></tr><tr><td>Interaktion</td><td>Freundlich</td></tr><tr><td>Nützliches Wissen</td><td>Stadtinfrastruktur</td></tr><tr><td>Ideal</td><td>Leben retten</td></tr><tr><td>Band</td><td>Schützt die Menschen</td></tr><tr><td>Schwäche</td><td>Anfällig für Aberglauben</td></tr><tr><td>Geheimnis</td><td>-</td></tr></table>
 
   </div>
 </div>
