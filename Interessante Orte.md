@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-24T00:20:12.149Z'
+modified: '2022-07-24T00:36:23.283Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
@@ -111,6 +111,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   - [Zum feurigen Splitjaw](#11) (Schmiede)
   - [Die Goldene Pfeife](#12) (H√§ndler)
 
+---
 
 ### <a name="3"></a> Tore zum Abyss
 
@@ -119,12 +120,14 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054480022282341/orth-gate.webp" alt="Tore zum Abyss">
 </details>
 
+
 ### <a name="4"></a> Der gro√üe Pier
 
 <details open>
   <summary>Gondellift</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499911667742/orth-lift.webp" alt="Gondellift">
 </details>
+
 
 ### <a name="5"></a> Der Stadtmarkt
 
@@ -133,12 +136,14 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054500817641502/orth-market.webp" alt="Stadtmarkt">
 </details>
 
+
 ### <a name="6"></a> Windm√ºhlen
 
 <details open>
   <summary>Windm√ºhlen</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054549656125480/orth-windmill.webp" alt="Windm√ºhlen">
 </details>
+
 
 ### <a name="7"></a> Waisenhaus
 
@@ -147,7 +152,9 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp" alt="Waisenhaus">
 </details>
 
+
 ### <a name="8"></a> Zum jungen Forscher
+
 
 ### <a name="9"></a> Die Slums
 
@@ -156,12 +163,14 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054547806429205/orth-slum4.webp" alt="Slums">
 </details>
 
+
 ### <a name="1"></a> Das Drecksloch
 
 <details open>
   <summary>Das Drecksloch</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054521378119800/orth-orphan6.webp" alt="Das Drecksloch">
 </details>
+
 
 ### <a name="2"></a> Zur Fallenden Kneipe
 
@@ -170,6 +179,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054523466887218/orth-pub.webp" alt="Fallende Kneipe">
 </details>
 
+
 ### <a name="10"></a> Die Gildenhalle
 
 <details open>
@@ -177,7 +187,9 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499131523082/orth-guild.webp" alt="Gildenhalle">
 </details>
 
+
 ### <a name="11"></a> Zum feurigen Splitjaw
+
 
 ### <a name="12"></a> Die Goldene Pfeife
 
