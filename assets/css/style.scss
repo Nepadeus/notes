@@ -3,19 +3,27 @@
 
 @import "{{ site.theme }}";
 
-.nav_list {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    column-gap: 10px;
-    margin-left: 10%;
-    margin-right: 10%;
-    position: sticky;
-    overflow: hidden;
-    background-color: rgb(51, 51, 51);
-}
+    .nav_list {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        column-gap: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 0;
+        width: 90%;
+        position: fixed;
+        overflow: hidden;
+        /* display: block; */
+        border-bottom: 1px solid #82dc53;
+        background: #1b1b1b;
+        padding: 14px 16px;
+    }
 .nav_list a {
+  position: fixed;
+  display: block;
   text-decoration: none;
   padding: 14px 16px;
+
 }
 
 ul.nav_item, ul.nav_item > li  {
@@ -23,6 +31,7 @@ ul.nav_item, ul.nav_item > li  {
 }
 
 .nav { 
+    margin-top: 3%;
     grid-area: nav;
     position: fixed;
     list-style-type: none;
