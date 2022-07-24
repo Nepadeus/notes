@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T15:34:53.588Z'
+modified: '2022-07-24T15:36:18.624Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -80,14 +80,7 @@ modified: '2022-07-24T15:34:53.588Z'
 
 Edelsteinnutzung ist anhand der Schichttiefe aufgrunde des verwendeten Artefaktes limitiert. Die Tabelle verdeutlicht das Verhältnis von Schichtiefe, Level und Anzahl an möglichen Einsätzen
 
-|-|1. Level|2. Level|3. Level|4. Level|5. Level|6/7. Level
----|---|---|---|---|---|---
-1. Schicht|2|-|-|-|-|-
-2. Schicht|3|1|-|-|-|-
-3. Schicht|4|2|1|-|-|-
-4. Schicht|4|3|2|1|-|-
-5. Schicht|4|3|2|1|1|-
-6. Schicht|4|3|3|2|1|1
+<table><tr><td>-</td><td>1. Level</td><td>2. Level</td><td>3. Level</td><td>4. Level</td><td>5. Level</td><td>6/7. Level</td></tr><tr><td>1. Schicht</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>2. Schicht</td><td>3</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>3. Schicht</td><td>4</td><td>2</td><td>1</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4. Schicht</td><td>4</td><td>3</td><td>2</td><td>1</td><td>-</td><td>-</td></tr><tr><td>5. Schicht</td><td>4</td><td>3</td><td>2</td><td>1</td><td>1</td><td>-</td></tr><tr><td>6. Schicht</td><td>4</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td></tr></table>
 
 Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
 
