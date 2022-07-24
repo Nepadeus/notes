@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T15:33:41.900Z'
+modified: '2022-07-24T15:34:53.588Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -80,7 +80,7 @@ modified: '2022-07-24T15:33:41.900Z'
 
 Edelsteinnutzung ist anhand der Schichttiefe aufgrunde des verwendeten Artefaktes limitiert. Die Tabelle verdeutlicht das Verhältnis von Schichtiefe, Level und Anzahl an möglichen Einsätzen
 
--|1. Level|2. Level|3. Level|4. Level|5. Level|6/7. Level
+|-|1. Level|2. Level|3. Level|4. Level|5. Level|6/7. Level
 ---|---|---|---|---|---|---
 1. Schicht|2|-|-|-|-|-
 2. Schicht|3|1|-|-|-|-
