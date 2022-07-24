@@ -2,7 +2,7 @@
 tags: [DM]
 title: Interessante Orte
 created: '2022-07-22T21:06:43.312Z'
-modified: '2022-07-23T23:34:08.495Z'
+modified: '2022-07-24T00:19:04.801Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Interessante Orte</div>
@@ -59,7 +59,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### Zentraldistrikt
 
-<details closed>
+<details open>
   <summary>Zentraldistrikt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054478206148761/orth9.webp" alt="Zentraldistrikt">
 </details>
@@ -70,7 +70,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### Norddistrikt
 
-<details closed>
+<details open>
   <summary>Norddistrikt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054478784958524/orth11.webp" alt="Norddistrikt">
 </details>
@@ -80,7 +80,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### Westdistrikt
 
-<details closed>
+<details open>
   <summary>Westdistrikt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054455200383087/orth1.webp" alt="Westdistrikt">
 </details>
@@ -90,7 +90,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### S√ºddistrikt
 
-<details closed>
+<details open>
   <summary>S√ºddistrikt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054528831402004/orth-slum2.webp" alt="S√ºddistrikt">
 </details>
@@ -102,7 +102,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### Ostdistrikt
 
-<details closed>
+<details open>
   <summary>Ostdistrikt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054479078564011/orth12.webp" alt="Ostdistrikt">
 </details>
@@ -114,35 +114,35 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### <a name="3"></a> Tore zum Abyss
 
-<details closed>
+<details open>
   <summary>Tore zum Abyss</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054480022282341/orth-gate.webp" alt="Tore zum Abyss">
 </details>
 
 ### <a name="4"></a> Der gro√üe Pier
 
-<details closed>
+<details open>
   <summary>Gondellift</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499911667742/orth-lift.webp" alt="Gondellift">
 </details>
 
 ### <a name="5"></a> Der Stadtmarkt
 
-<details closed>
+<details open>
   <summary>Stadtmarkt</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054500817641502/orth-market.webp" alt="Stadtmarkt">
 </details>
 
 ### <a name="6"></a> Windm√ºhlen
 
-<details closed>
+<details open>
   <summary>Windm√ºhlen</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054549656125480/orth-windmill.webp" alt="Windm√ºhlen">
 </details>
 
 ### <a name="7"></a> Waisenhaus
 
-<details closed>
+<details open>
   <summary>Waisenhaus</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054501903966258/orth-orphan3.webp" alt="Waisenhaus">
 </details>
@@ -151,28 +151,28 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### <a name="9"></a> Die Slums
 
-<details closed>
+<details open>
   <summary>Slums</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054547806429205/orth-slum4.webp" alt="Slums">
 </details>
 
 ### <a name="1"></a> Das Drecksloch
 
-<details closed>
+<details open>
   <summary>Das Drecksloch</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054521378119800/orth-orphan6.webp" alt="Das Drecksloch">
 </details>
 
 ### <a name="2"></a> Zur Fallenden Kneipe
 
-<details closed>
+<details open>
   <summary>Fallende Kneipe</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054523466887218/orth-pub.webp" alt="Fallende Kneipe">
 </details>
 
 ### <a name="10"></a> Die Gildenhalle
 
-<details closed>
+<details open>
   <summary>Gildenhalle</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054499131523082/orth-guild.webp" alt="Gildenhalle">
 </details>
@@ -181,7 +181,7 @@ Stattdessen verwenden die Stadtbewohner Artefakte, welche Hitze erzeugen, zum W√
 
 ### <a name="12"></a> Die Goldene Pfeife
 
-<details closed>
+<details open>
   <summary>Goldene Pfeife</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054524767117342/orth-shop2.webp" alt="Goldene Pfeife">
 </details>

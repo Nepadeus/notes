@@ -3,7 +3,7 @@ favorited: true
 tags: [DM]
 title: Ruf des Abyss
 created: '2022-07-22T11:58:18.593Z'
-modified: '2022-07-23T23:45:46.824Z'
+modified: '2022-07-24T00:17:55.993Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Ruf des Abyss</div>
@@ -22,7 +22,7 @@ modified: '2022-07-23T23:45:46.824Z'
 ### Die Kampagne _Ruf des Abyss_ is für 3 bis 6 Spieler mit einem durchschnittlichen Party Level von 3. Charaktere welche die Kampagne erfolgreich durchspielen können das 14te Level erreichen.
 
 ## <a name="1"></a> Hintergrund
-<details closed>
+<details open>
   <summary>Orth (Vergangenheit)</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054522284089404/orth-past.webp" alt="Waisenhaus">
 </details>
@@ -32,7 +32,7 @@ modified: '2022-07-23T23:45:46.824Z'
  Das Abenteuer für die Gruppe beginnt in dem Jahr des 2000 Jahres Zyklus der bisher ungeklärten Naturphänomene. 
 
 ## <a name="2"></a> Abenteuer Hook 
-<details closed>
+<details open>
   <summary>Orths Pier</summary>
   <img src="https://cdn.discordapp.com/attachments/1000054154070327356/1000054522690932846/orth-pier.webp" alt="Waisenhaus">
 </details>
