@@ -22,6 +22,10 @@ ul.nav_item, ul.nav_item > li  {
     	display: block;
 }
 
+img {
+    max-height: 400px;
+}
+
 .nav { 
     grid-area: nav;
     position: fixed;
