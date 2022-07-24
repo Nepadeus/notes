@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T14:49:36.374Z'
+modified: '2022-07-24T14:51:36.742Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -79,63 +79,16 @@ modified: '2022-07-24T14:49:36.374Z'
 # Edelsteine <a name="0"></a>
 
 Edelsteinnutzung ist anhand der Schichttiefe aufgrunde des verwendeten Artefaktes limitiert. Die Tabelle verdeutlicht das Verhältnis von Schichtiefe, Level und Anzahl an möglichen Einsätzen
-<div class="divTable">
-    <div class="row">
-        <div class="cell">Ablenkung</td>
-        <div class="cell">cantrip</td>
-    </div>
-    <div class="row">
-        <div class="cell">Attribut</td>
-        <div class="cell">Intelligenz</td>
-    </div>
-    <div class="row">
-        <div class="cell">Zeit</td>
-        <div class="cell">1 Aktion</td>
-    </div>
-    <div class="row">
-        <div class="cell">Reichweite</td>
-        <div class="cell">9 m</td>
-    </div>
-    <div class="row">
-        <div class="cell">Dauer</td>
-        <div class="cell">1 Minute</td>
-    </div>
-    <div class="row">
-        <div class="cell">Beschreibung</td>
-        <div class="cell">Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td>
-    </div>
-</div>
+
+<table><tr><td>Ablenkung</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Intelligenz</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>9 m</td></tr><tr><td>Dauer</td><td>1 Minute</td></tr><tr><td>Beschreibung</td><td>Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td></tr></table>
+
 Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
 
 ## 1. Schicht Vorkommen <a name="1"></a>
 
 1.	Azurite - blau <a name="a"></a>
-    <div class="divTable">
-    <div class="row">
-        <div class="cell">Ablenkung</td>
-        <div class="cell">cantrip</td>
-    </div>
-    <div class="row">
-        <div class="cell">Attribut</td>
-        <div class="cell">Intelligenz</td>
-    </div>
-    <div class="row">
-        <div class="cell">Zeit</td>
-        <div class="cell">1 Aktion</td>
-    </div>
-    <div class="row">
-        <div class="cell">Reichweite</td>
-        <div class="cell">9 m</td>
-    </div>
-    <div class="row">
-        <div class="cell">Dauer</td>
-        <div class="cell">1 Minute</td>
-    </div>
-    <div class="row">
-        <div class="cell">Beschreibung</td>
-        <div class="cell">Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td>
-    </div>
-</div>
+
+    <table><tr><td>Ablenkung</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Intelligenz</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>9 m</td></tr><tr><td>Dauer</td><td>1 Minute</td></tr><tr><td>Beschreibung</td><td>Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td></tr></table>
 
 2.	Banded agate - orange <a name="b"></a>
     Eletrocution|cantrip
