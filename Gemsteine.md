@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T14:54:21.125Z'
+modified: '2022-07-24T14:56:50.228Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -99,17 +99,12 @@ Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
     <table><tr><td>Reparatur</td><td>cantrip</td></tr><tr><td>Attribut</td><td>-</td></tr><tr><td>Zeit</td><td>1 Minute</td></tr><tr><td>Reichweite</td><td>Berührung</td></tr><tr><td>Dauer</td><td>Sofort</td></tr><tr><td>Beschreibung</td><td>Du kannst einen Schaden der Fläche 30 cm² oder kleiner mithilfe von Magie rückstandslos beheben.</td></tr></table>
 
 4. ###	Eye agate - gemischt <a name="d"></a>
-    Paranoia|cantrip
-    ---|:---
-    Attribut|Charisma
-    Zeit|1 Aktion
-    Reichweite|18 m
-    Dauer|Sofort
-    Beschreibung|Du beleidigst ein Ziel deiner Wahl. Sofern es dich hören kann und eine Sprache versteht muss es einem Weisheitsrettungswurf ablegen oder erhält 1D4 psychischen Schaden und hat einen Nachteil auf seinen nächsten Angriff. Bei Level 5 steigt der Schaden auf 2D4, bei Level 11 auf 3D4
+
+    <table><tr><td>Paranoia</td><td>cantrip</td></tr><tr><td>Attribut</td><td>Charisma</td></tr><tr><td>Zeit</td><td>1 Aktion</td></tr><tr><td>Reichweite</td><td>18 m</td></tr><tr><td>Dauer</td><td>Sofort</td></tr><tr><td>Beschreibung</td><td>Du beleidigst ein Ziel deiner Wahl. Sofern es dich hören kann und eine Sprache versteht muss es einem Weisheitsrettungswurf ablegen oder erhält 1D4 psychischen Schaden und hat einen Nachteil auf seinen nächsten Angriff. Bei Level 5 steigt der Schaden auf 2D4, bei Level 11 auf 3D4</td></tr></table>
 
 5. ###	Hematite - silber <a name="e"></a>
     Licht|cantrip
-    ---|:---
+    ---:|:---
     Attribut|-
     Zeit|1 Aktion
     Reichweite|6 m
