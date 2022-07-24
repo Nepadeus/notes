@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T14:47:52.232Z'
+modified: '2022-07-24T14:49:36.374Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -79,26 +79,63 @@ modified: '2022-07-24T14:47:52.232Z'
 # Edelsteine <a name="0"></a>
 
 Edelsteinnutzung ist anhand der Schichttiefe aufgrunde des verwendeten Artefaktes limitiert. Die Tabelle verdeutlicht das Verhältnis von Schichtiefe, Level und Anzahl an möglichen Einsätzen
--|1. Level|2. Level|3. Level|4. Level|5. Level|6/7. Level
----|---|---|---|---|---|---
-1. Schicht|2|-|-|-|-|-
-2. Schicht|3|1|-|-|-|-
-3. Schicht|4|2|1|-|-|-
-4. Schicht|4|3|2|1|-|-
-5. Schicht|4|3|2|1|1|-
-6. Schicht|4|3|3|2|1|1
+<div class="divTable">
+    <div class="row">
+        <div class="cell">Ablenkung</td>
+        <div class="cell">cantrip</td>
+    </div>
+    <div class="row">
+        <div class="cell">Attribut</td>
+        <div class="cell">Intelligenz</td>
+    </div>
+    <div class="row">
+        <div class="cell">Zeit</td>
+        <div class="cell">1 Aktion</td>
+    </div>
+    <div class="row">
+        <div class="cell">Reichweite</td>
+        <div class="cell">9 m</td>
+    </div>
+    <div class="row">
+        <div class="cell">Dauer</td>
+        <div class="cell">1 Minute</td>
+    </div>
+    <div class="row">
+        <div class="cell">Beschreibung</td>
+        <div class="cell">Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td>
+    </div>
+</div>
 Es gibt noch cantrip Edelsteine, welche unbegrenzt eingesetzt werden können
 
 ## 1. Schicht Vorkommen <a name="1"></a>
 
 1.	Azurite - blau <a name="a"></a>
-    Ablenkung|cantrip
-    ---|:---
-    Attribut|Intelligenz
-    Zeit|1 Aktion
-    Reichweite|9 m
-    Dauer|1 Minute
-    Beschreibung|Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt. 
+    <div class="divTable">
+    <div class="row">
+        <div class="cell">Ablenkung</td>
+        <div class="cell">cantrip</td>
+    </div>
+    <div class="row">
+        <div class="cell">Attribut</td>
+        <div class="cell">Intelligenz</td>
+    </div>
+    <div class="row">
+        <div class="cell">Zeit</td>
+        <div class="cell">1 Aktion</td>
+    </div>
+    <div class="row">
+        <div class="cell">Reichweite</td>
+        <div class="cell">9 m</td>
+    </div>
+    <div class="row">
+        <div class="cell">Dauer</td>
+        <div class="cell">1 Minute</td>
+    </div>
+    <div class="row">
+        <div class="cell">Beschreibung</td>
+        <div class="cell">Du erschaffst ein Geräusch oder ein Trugbild (nicht größer als 1,5m²) in Reichweite. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.</td>
+    </div>
+</div>
 
 2.	Banded agate - orange <a name="b"></a>
     Eletrocution|cantrip
