@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-24T15:52:51.476Z'
+modified: '2022-07-25T20:34:37.120Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -19,16 +19,16 @@ modified: '2022-07-24T15:52:51.476Z'
 > - [Mentaler upload](#h)
 > - [Neurale Lethargie](#i)
 > - [Beleber](#j)
-> - [](#k)
-> - [](#l)
+> - [Aufbruch ins Licht](#k)
+> - [Schlafgas](#l)
 
 [2. Schicht Vorkommen](#2)
-> - [](#m)
-> - [](#n)
-> - [](#o)
-> - [](#p)
-> - [](#q)
-> - [](#r)
+> - [Neuraler Stimulant](#m)
+> - [Lachgas](#n)
+> - [Prismatischer Lichtstrahl](#o)
+> - [Adrenalin Boost](#p)
+> - [Seismischer Auslöser](#q)
+> - [Holographische Partikel](#r)
 > - [](#s)
 > - [](#t)
 > - [](#u)
@@ -180,7 +180,7 @@ Beschreibung|Bis zu 3 Kreaturen in deinem Sichtfeld müssen einen Charisma-Rettu
 
 Beleber|Level 1
 ---|:---
-Attribut|Weisaheit
+Attribut|Weisheit
 Zeit|1 Aktion
 Reichweite|Berührung
 Dauer|Sofort
@@ -188,7 +188,27 @@ Beschreibung|Eine Kreatur die du berührst erhält 1D8 + deinen Weisheitsmodifik
 
 ###	Tiger eye -yellow <a name="k"></a>
 
-|
+Aufbruch ins Licht|Level´1
+---|:---
+Attribut|-
+Zeit|1 Bonusaktion
+Reichweite|18 m
+Dauer|Konzentration, 10 min
+Beschreibung|Du spannst mehrere abyssale Schichten um ein Ziel in Reichweite deiner Wahl. Sie erhählt für die Dauer des Zaubers +2 AC.
+
+### Turquoise -türkis <a name="l"></a>
+
+Schlafgas|Level 1
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|27 m
+Dauer|1 Minute
+Beschreibung|Ein Gas breitet sich aus welches mehrere Ziele in einen Schlaf versetzten kann. WÜrfel 5D8, dieser Wert bestimmt die Trefferpunkte der Kreatur welche von diesem Spruch betroffen werden kann. Wähle ein Ziel in Reichweite. Von dem Punkt aus verbreitet sich das Gas in einem 6 m Radius aus und trifft in aufsteigender Reihenfolge der momentanen Trefferpunkte aller Kreaturen in diesem Feld welche bei Bewusstsein sind. Beginnend mit der Kreatur mit den niedrigsten Trefferpunkten, fallen die Kreaturen sofern nicht untot oder immun in einen Schlaf und sind für die Dauer Kampfunfähig. Auf Level 2 oder höher steigt die WÜrfelzahl um weitere 2D8.
+
+###	Bloodstone - grün <a name="m"></a>
+
+Neuraler Stimulant|Level 1
 ---|:---
 Attribut|
 Zeit|
@@ -196,49 +216,57 @@ Reichweite|
 Dauer|
 Beschreibung|
 
-### Turquoise -türkis <a name="l"></a>
-
-|
----|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-
-## 2. Schicht Vorkommen <a name="2"></a>
-
-###	Bloodstone - grün <a name="m"></a>
-
-|
----|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-
 ###	Carnelian - rot <a name="n"></a>
 
-|
+Lachgas|Level 1
 ---|:---
 Attribut|
 Zeit|
 Reichweite|
 Dauer|
+Beschreibung|
 
 ###	Chalcedony - weiß <a name="o"></a>
 
-|
+Prismatischer Lichtstrahl|Level 1
 ---|:---
 Attribut|
 Zeit|
 Reichweite|
 Dauer|
+Beschreibung|
 
-4.	Chrysoprase - grün <a name="p"></a>
+### Chrysoprase - grün <a name="p"></a>
 
-5.	Citrine - gelb <a name="q"></a>
+Adrenalin Boost|Level 1
+---|:---
+Attribut|
+Zeit|
+Reichweite|
+Dauer|
+Beschreibung|
 
-6.	Jasper - braun <a name="r"></a>
+###	Citrine - gelb <a name="q"></a>
+
+Seismischer Auslöser|Level 1
+---|:---
+Attribut|
+Zeit|
+Reichweite|
+Dauer|
+Beschreibung|
+
+###	Jasper - braun <a name="r"></a>
+
+Holographische Partikel|Level 1
+---|:---
+Attribut|
+Zeit|
+Reichweite|
+Dauer|
+Beschreibung|
+
+## 2. Schicht Vorkommen <a name="2"></a>
 
 7.	Moonstone - blau <a name="s"></a>
 
