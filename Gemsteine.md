@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-25T20:34:37.120Z'
+modified: '2022-07-26T17:38:33.041Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -21,27 +21,27 @@ modified: '2022-07-25T20:34:37.120Z'
 > - [Beleber](#j)
 > - [Aufbruch ins Licht](#k)
 > - [Schlafgas](#l)
-
-[2. Schicht Vorkommen](#2)
 > - [Neuraler Stimulant](#m)
 > - [Lachgas](#n)
 > - [Prismatischer Lichtstrahl](#o)
 > - [Adrenalin Boost](#p)
 > - [Seismischer Auslöser](#q)
 > - [Holographische Partikel](#r)
-> - [](#s)
-> - [](#t)
-> - [](#u)
-> - [](#a)
-> - [](#w)
-> - [](#x)
+
+[2. Schicht Vorkommen](#2)
+> - [Gedanken Kompass](#s)
+> - [Sinnesentzug](#t)
+> - [Athermischer Schwall](#u)
+> - [Disorientierer](#v)
+> - [Wahrheitsserum](#x)
+> - [Bodenwanderung](#y)
+> - [Betäubende Tonwelle](#z)
+> - [Stürmende Winde](#ä)
+> - [Ton Vakuum](#ö)
+> - [Reflekiver Umhang](#ü)
 
 [3. Schicht Vorkommen](#3)
-> - [](#y)
-> - [](#z)
-> - [](#ä)
-> - [](#ö)
-> - [](#ü)
+> - [](#w)
 > - [](#ß)
 > - [](#aa)
 > - [](#ab)
@@ -210,87 +210,175 @@ Beschreibung|Ein Gas breitet sich aus welches mehrere Ziele in einen Schlaf vers
 
 Neuraler Stimulant|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|-
+Zeit|1 Aktion
+Reichweite|9 m
+Dauer|Konzentration,  1 Minute
+Beschreibung|Du wählst bis zu 3 Kreaturen in deiner Reichweite. Diese dürfen solange der Effekt wirkt bei Angriffen und Rettungswürfen 1D4 zum Ergebnis hinzuaddieren. Auf Level 2 und höher steigt die Würfelzeit um je 1D4.
 
 ###	Carnelian - rot <a name="n"></a>
 
 Lachgas|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|9 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|Wähle eine Kreatur als Ziel, sie muss einen Weisheitsrettungswurf ablegen. Bei einem Fehlschlag fängt sie unkontrolliert an zu Lachen für die Dauer des Effektes und liegt kampfunfähig auf dem Boden. Bei jedem ihrer Züge kann Sie am Ende den Rettungswurf erneut versuchen. 
 
 ###	Chalcedony - weiß <a name="o"></a>
 
 Prismatischer Lichtstrahl|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|-
+Zeit|1 Aktion
+Reichweite|36 m
+Dauer|1 Runde
+Beschreibung|Ein Lichtstrahl trifft eine Kreatur deiner Wahl. Bei einem Treffer nimmt Sie 4D6 Energieschaden und Angriffe gegen die Kreatur sind bis zum Ende deiner nächsten Runde mit Vorteil. Ab Level 2 und höher steigt der Schaden um je 1D6
 
 ### Chrysoprase - grün <a name="p"></a>
 
 Adrenalin Boost|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|Charisma
+Zeit|1 Aktion
+Reichweite|Berührung
+Dauer|Konzentration, 1 Minute
+Beschreibung|Eine willige Kreatur wird mit Mut überfüllt und ist für die Dauer des Effektes immun gegen Verängstigung. Sie erhält temporäre Trefferpunkte in Höhe deines Charisma Mods. Bei Effektende verliert die Kreatur Ihre verbleibenden temporären Trefferpunkte. Ab Level 2 oder höher kannst du die Anzahl an Kreaturen um je eine weiter erhöhen.
 
 ###	Citrine - gelb <a name="q"></a>
 
 Seismischer Auslöser|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|Selbst
+Dauer|Sofort
+Beschreibung|Eine Donnernde Kraft kommt von dir als Zentrum hervor und alle Kreaturen in einem 4,5 m Radius müssen einen Constitutionsrettungswurf ablegen. Bei einem Misserfolg nimmt Sie 2D8 Donnerschaden und wird 3 m weggeschleudert. Bei Erfolg nimmt Sie nur halben Schaden und wird nicht weggestoßen. Der Donner ist 90 m weit zu höhren.Ab Level 2 und höher steigt der Schaden um je 1D8.
 
 ###	Jasper - braun <a name="r"></a>
 
 Holographische Partikel|Level 1
 ---|:---
-Attribut|
-Zeit|
-Reichweite|
-Dauer|
-Beschreibung|
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|18 m
+Dauer|Konzentration, 10 Minuten
+Beschreibung|Du erschaffst ein Trugbild (nicht größer als 1,5m²) in Reichweite. Sie ist rein visuell, du kannst sie sich aber natürlich bewegen lassen. Mit einem Investigationscheck können andere die Illusion als solche indentifizieren, sofern sie nicht direkt mit ihr interagieren. Für jeden der die Illusion als solche erkennt verblasst sein Effekt.
 
 ## 2. Schicht Vorkommen <a name="2"></a>
 
-7.	Moonstone - blau <a name="s"></a>
+###	Moonstone - blau <a name="s"></a>
 
-8.	Onyx - schwarz <a name="t"></a>
+Gedanken Kompass|Level 2
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|300 m
+Dauer|Konzentration, 10 Minuten
+Beschreibung|
 
-9.	Quartz - weiß <a name="u"></a>
+###	Onyx - schwarz <a name="t"></a>
 
-10.	Sardonyx - braun <a name="v"></a>
+Sinnesentzug|Level 2
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|9 m
+Dauer|1 min
+Beschreibung|
 
-11.	Star rose quartz - pink <a name="w"></a>
+###	Quartz - weiß <a name="u"></a>
 
-12.	Zircon - blau <a name="x"></a>
+Athermischer Schwall|Level 2
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|12 m
+Dauer|Sofort
+Beschreibung|
+
+###	Sardonyx - braun <a name="v"></a>
+
+Disorientierer|Level 2
+---|:---
+Attribut|Charisma
+Zeit|1 Aktion
+Reichweite|18 m
+Dauer|1 min
+Beschreibung|
+
+###	Zircon - blau <a name="x"></a>
+
+Wahrheitsserum|Level 2
+---|:---
+Attribut|Charisma
+Zeit|1 Aktion
+Reichweite|18 m
+Dauer|10 Minuten
+Beschreibung|
+
+###	Amber - orange <a name="y"></a>
+
+Bodenwanderung|Level 2
+---|:---
+Attribut|-
+Zeit|1 Bonusaktion
+Reichweite|9 m
+Dauer|Sofort
+Beschreibung|
+
+###	Amethyst - lila <a name="z"></a>
+
+Betäubende Tonwelle|Level 2
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|6 m
+Dauer|Sofort
+Beschreibung|
+
+###	Chrysoberyl - gelb <a name="ä"></a>
+
+Stürmende Winde|Level 2
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|Selbst
+Dauer|Konzentration, 1 Minute
+Beschreibung|
+
+###	Coral - rot <a name="ö"></a>
+
+Ton Vakuum|Level 2
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|6 m
+Dauer|Konzentration, 10 Minuten
+Beschreibung|
+
+###	Garnet - rot <a name="ü"></a>
+
+Reflekiver Umhang|Level 2
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|1,5 m
+Dauer|Konzentration, 1 Stunde
+Beschreibung|
 
 ## 3. Schicht Vorkommen <a name="3"></a>
 
-1.	Amber - orange <a name="y"></a>
+###	Star rose quartz - pink <a name="w"></a>
 
-2.	Amethyst - lila <a name="z"></a>
-
-3.	Chrysoberyl - gelb <a name="ä"></a>
-
-4.	Coral - rot <a name="ö"></a>
-
-5.	Garnet - rot <a name="ü"></a>
+Fluch entfernen|Level 3
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Berührung
+Dauer|Sofort
+Beschreibung|
 
 6.	Jade - grün <a name="ß"></a>
 
