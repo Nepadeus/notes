@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-26T17:38:33.041Z'
+modified: '2022-07-27T21:31:43.537Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -39,38 +39,38 @@ modified: '2022-07-26T17:38:33.041Z'
 > - [Stürmende Winde](#ä)
 > - [Ton Vakuum](#ö)
 > - [Reflekiver Umhang](#ü)
+> - [Reflektierender Mantel](#w)
 
 [3. Schicht Vorkommen](#3)
-> - [](#w)
-> - [](#ß)
-> - [](#aa)
-> - [](#ab)
-> - [](#ac)
-> - [](#ad)
+> - [Hyper-Keimung](#ß)
+> - [Fluch entfernen](#aa)
+> - [Glühpulver](#ab)
+> - [Phobien Serum](#ac)
+> - [Abyssaler Negierer](#ad)
+> - [Spannungsentladung](#ae)
+> - [Optische Psychosis](#af)
 
 [4. Schicht Vorkommen](#4)
-> - [](#ae)
-> - [](#af)
-> - [](#ag)
-> - [](#ah)
-> - [](#ai)
-> - [](#aj)
+> - [Schauerliche Illusion](#ag)
+> - [Abyssales Kraftfeld](#ah)
+> - [Geruch aufdecken](#ai)
+> - [Perfekte Tarnung](#aj)
+> - [wildes Far Caress](#ak)
+> - [Metallhaut](#al)
+> - [Halluzinierendes Gelände](#am)
+> - [Molekularer Synthetisierer](#an)
 
 [5. Schicht Vorkommen](#5)
-> - [](#ak)
-> - [](#al)
-> - [](#am)
-> - [](#an)
-> - [](#ao)
-> - [](#ap)
-> - [](#aq)
-> - [](#ar)
+> - [Gehirnwäschegas](#ao)
+> - [Stimmendieb](#ap)
+> - [Artischer Schrei](#aq)
+> - [Gravitationsbrunnen](#ar)
 
 [6. Schicht Vorkommen](#6)
-> - [](#as)
-> - [](#at)
-> - [](#au)
-> - [](#av)
+> - [Spannungsteiler](#as)
+> - [Proximale Wiederbelebung](#at)
+> - [Katalytische Zellregeneration](#au)
+> - [Mindbreak](#av)
 
   </div>
   <div class="main" id="padded" markdown="1" align="center">
@@ -276,7 +276,7 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|300 m
 Dauer|Konzentration, 10 Minuten
-Beschreibung|
+Beschreibung|Finde ein Objekt deiner Wahl im Umkreis von 300 m, sofern der Weg dahin nicht blockiert ist.
 
 ###	Onyx - schwarz <a name="t"></a>
 
@@ -286,7 +286,7 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|9 m
 Dauer|1 min
-Beschreibung|
+Beschreibung|Wähle eine Kreatur, die einen Konstitutionsrettungswurf ablegen muss. Bei einem Misserfolg erblindet dein Ziel für die Dauer des Effektes oder ertaubt. Die Kreatur kann den Rettungswurf am Ende jeder Ihrer Züge erneut versuchen. Ab Level 3 oder höher kann je eine Kreatur mehr betroffen werden.
 
 ###	Quartz - weiß <a name="u"></a>
 
@@ -296,7 +296,7 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|12 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Ein Schotgun-ähnlicher Blast an Eisplittern verteilt sich vor dir, bei dem alle betroffene Kreaturen einen Dex-Rettungswurf ablegen müssen. Bei einem Misserfolg erleidet das Ziel 4D6 Kälteschaden und 2D8 Stichschaden, ansonsten nur die Hälfte davon. Bis zum Ende deines Nächsten Zuges gilt der Angriffsbereich als schwieriges Gelände. Ab Level 5 erhöht sich der Schaden um 1D8 Wuchtschaden
 
 ###	Sardonyx - braun <a name="v"></a>
 
@@ -306,7 +306,7 @@ Attribut|Charisma
 Zeit|1 Aktion
 Reichweite|18 m
 Dauer|1 min
-Beschreibung|
+Beschreibung|Ein Ziel dass dich sehen und hören kann wird von einer kleinen Wolke getroffen und muss einen Weisheitsrettungswurf ablegen, um keinen Nachteil auf Wahrnehmungswürfe zu haben, wenn es neben dir andere Kreaturen sehen will. Die Kreatur hat einen Vorteil im Rettungswurf, wenn Sie sich mit Verbündeten von dir im Kampf befindet. Kreaturen welche nicht verzaubert werden können, bestehen den Rettungswurf automatisch. Der Spruch endet endet wenn die Kreatur dich nicht mehr hören kann, du taub wirst oder kampfunfähig wirst.
 
 ###	Zircon - blau <a name="x"></a>
 
@@ -316,7 +316,7 @@ Attribut|Charisma
 Zeit|1 Aktion
 Reichweite|18 m
 Dauer|10 Minuten
-Beschreibung|
+Beschreibung|Du versprühst eine Wolke ein einem Radius von 4,5 m. Dein Ziel muss einen Charismarettungswurf ablegen um nicht für die Dauer des Effektes alle Täuschungsversuche automatisch zu verlieren.
 
 ###	Amber - orange <a name="y"></a>
 
@@ -326,7 +326,7 @@ Attribut|-
 Zeit|1 Bonusaktion
 Reichweite|9 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Du wirst vom Boden verschluckt und kannst dich an eine 9 m entfernte Stelle bewegen, welche du sehen kannst. 
 
 ###	Amethyst - lila <a name="z"></a>
 
@@ -336,7 +336,7 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|6 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Ein schreckliches Geräusch ertönt aus einer Quelle deiner Wahl in Reichweite. Jede Kreatur in einem 6 m Radius muss einen Konstitutionrettungswurf ablegen, um nur den halben Schaden von 3D8 Donnerschaden zu erleiden. Ab Level 3 oder höher steigt der Schaden um je 1D8 an.
 
 ###	Chrysoberyl - gelb <a name="ä"></a>
 
@@ -346,7 +346,7 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|Selbst
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|In einer 18 m langen Linie beginnt auf einer Fläche von 3 m ein starker Wind zu stürmen, welcher von dir aus in eine beliebige Richtung weht. Jede Kreatur in unmittelbarer Distanz muss einen Stärkerettungswurf ablegen um nicht um 4,5 m bewegt zu werden. Die Linie gilt als schweres Gelände, vertreibt Gase und löscht offene Flammen. geschütze Flammen haben eine 50% Chance gelöscht zu werden. Als Bonusaktion kannst du in deinem Zug die Richtung der Winde ändern.
 
 ###	Coral - rot <a name="ö"></a>
 
@@ -356,7 +356,7 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|6 m
 Dauer|Konzentration, 10 Minuten
-Beschreibung|
+Beschreibung|Für die Dauer des Effektes kann kein Ton in einem 6 m Radius um dich herum erzeugt oder wahrgenommen werden. Alle betroffene Kreaturen sind immun zu Donnerschaden und gelten für die Dauer als Taub.
 
 ###	Garnet - rot <a name="ü"></a>
 
@@ -366,11 +366,31 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|1,5 m
 Dauer|Konzentration, 1 Stunde
-Beschreibung|
+Beschreibung|Ein feiner Umhang bestehend aus dem Kraftfeld verzerrt den Raum um deine Person und macht dich für die Dauer des Effektes optisch unsichtbar. Der Effekt endet beim benutzen von Edelsteinen und Artefakten sowie bei einem Angriff. Ab Level 3 kann eine weitere Person betroffen werden.
+
+###	Star rose quartz - pink <a name="w"></a>
+
+Reflektierender Mantel|Level 2
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Berührung
+Dauer|Sofort
+Beschreibung|Ein unsichtbares Gas verzehrt das Licht um dich herum und macht es für Kreaturen die auf Sicht angewiesen sind schwerer deine genaue Position wahrzunehmen. FÜr die Dauer des Effektes greifen betroffene Kreaturen mit Nachteil an.
 
 ## 3. Schicht Vorkommen <a name="3"></a>
 
-###	Star rose quartz - pink <a name="w"></a>
+6.	Jade - grün <a name="ß"></a>
+
+Hyper-Keimung|Level 3
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Berührung
+Dauer|Sofort
+Beschreibung|
+
+7.	Jet - schwarz <a name="aa"></a>
 
 Fluch entfernen|Level 3
 ---|:---
@@ -380,56 +400,220 @@ Reichweite|Berührung
 Dauer|Sofort
 Beschreibung|
 
-6.	Jade - grün <a name="ß"></a>
-
-7.	Jet - schwarz <a name="aa"></a>
-
 8.	Pearl - weiß <a name="ab"></a>
+
+Glühpulver|Level 3
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|18 m
+Dauer|1 Stunde
+Beschreibung|
 
 9.	Spinel - grau <a name="ac"></a>
 
+Phobien Serum|Level 3
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|32 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
+
 10.	Tourmaline - grün <a name="ad"></a>
 
-## 4. Schicht Vorkommen <a name="4"></a>
+Abyssaler Negierer|Level 3
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|32 m
+Dauer|Sofort
+Beschreibung|
 
 1.	Alexandrite - blau <a name="ae"></a>
 
+Spannungsentladung|Level 3
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|Selbst
+Dauer|Sofort
+Beschreibung|
+
 2.	Aquamarine - blau <a name="af"></a>
+
+Optische Psychosis|Level 3
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|32 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
+
+## 4. Schicht Vorkommen <a name="4"></a>
 
 3.	Black pearl - schwarz <a name="ag"></a>
 
+Schauerliche Illusion|Level 4
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|36 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
+
 4.	Blue spinel - blau <a name="ah"></a>
+
+Abyssales Kraftfeld|Level 4
+---|:---
+Attribut|Weisheit
+Zeit|1 Aktion
+Reichweite|9 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
 
 5.	Peridot - grün <a name="ai"></a>
 
+Geruch aufdecken|Level 4
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Selbst
+Dauer|Konzentration, 1 Stunde
+Beschreibung|
+
 6.	Topaz - orange <a name="aj"></a>
 
-## 5. Schicht Vorkommen <a name="5"></a>
+Perfekte Tarnung|Level 4
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|1,5 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
 
 1.	Black opal - schwarz <a name="ak"></a>
 
+wildes Far Caress|Level 4
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|27 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
+
 2.	Blue sapphire - blau <a name="al"></a>
+
+Metallhaut|Level 4
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Berührung
+Dauer|Konzentration, 1 Stunde
+Beschreibung|
 
 3.	Emerald - grün <a name="am"></a>
 
+Halluzinierendes Gelände|Level 4
+---|:---
+Attribut|Intelligenz
+Zeit|10 Minuten
+Reichweite|90 m
+Dauer|24 Stunden
+Beschreibung|
+
 4.	Fire opal - orange <a name="an"></a>
+
+Molekularer Synthetisierer|Level 4
+---|:---
+Attribut|-
+Zeit|10 Minuten
+Reichweite|27 m
+Dauer|Sofort
+Beschreibung|
+
+## 5. Schicht Vorkommen <a name="5"></a>
 
 5.	Opal - bunt <a name="ao"></a>
 
+Gehirnwäschegas|Level 5
+---|:---
+Attribut|Weisheit
+Zeit|1 Minute
+Reichweite|18 m
+Dauer|30 Tage
+Beschreibung|
+
 6.	Star ruby - rot <a name="ap"></a>
+
+Stimmendieb|Level 5
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|-
+Dauer|1 Minute
+Beschreibung|
 
 7.	Star sapphire - blau <a name="aq"></a>
 
+Artischer Schrei|Level 5
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|Selbst
+Dauer|Sofort
+Beschreibung|
+
 8.	Yellow sapphire - gelb <a name="ar"></a>
+
+Gravitationsbrunnen|Level 5
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|27 m
+Dauer|Konzentration, 1 Minute
+Beschreibung|
 
 ## 6. Schicht Vorkommen (_Außer Reichweite_) <a name="6"></a>
 
 1.	Black sapphire - schwarz <a name="as"></a>
 
+Spannungsteiler|Level 6
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|45 m
+Dauer|Sofort
+Beschreibung|
+
 2.	Diamond - weiß <a name="at"></a>
+
+Proximale Wiederbelebung|Level 6
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|18 m
+Dauer|Sofort
+Beschreibung|
 
 3.	Jacinth - rot <a name="au"></a>
 
-4.	Ruby - rot <a name="av"></a>
+Katalytische Zellregeneration|Level 6
+---|:---
+Attribut|-
+Zeit|1 Aktion
+Reichweite|19 m
+Dauer|Sofort
+Beschreibung|
+
+4.	Ruby - blutrot <a name="av"></a>
+
+Mindbreak|Level 6
+---|:---
+Attribut|Intelligenz
+Zeit|1 Aktion
+Reichweite|45 m
+Dauer|Sofort
+Beschreibung|
 
 </div>
