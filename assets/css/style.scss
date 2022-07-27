@@ -43,6 +43,7 @@ img {
     grid-template-areas:
       'nav main main main main';
     gap: 10px;
+    margin-left: 50%;
 }
 .grid-container > div {
   text-align: center;
@@ -62,6 +63,4 @@ td {
 }
 table {
     text-align: center;
-    margin-left: 10%;
-    margin-right: auto;
 }
