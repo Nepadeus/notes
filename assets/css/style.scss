@@ -34,6 +34,7 @@ img {
 .menu { 
     grid-area: menu;
     text-align: center;
+    margin-left: 50%;
  }
 .grid-container {
     margin-top: 3%;
@@ -43,7 +44,6 @@ img {
     grid-template-areas:
       'nav main main main main';
     gap: 10px;
-    margin-left: 50%;
 }
 .grid-container > div {
   text-align: center;
