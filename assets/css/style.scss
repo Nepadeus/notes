@@ -28,7 +28,7 @@ img {
     grid-area: nav;
     position: fixed;
     list-style-type: none;
-    height: 90%;
+    height: 100%;
     overflow: auto;
 }
 .menu { 
@@ -42,7 +42,7 @@ img {
     display: grid;
     grid-template-areas:
       'nav main main main main';
-    gap: 10px;
+    gap: 10%;
 }
 .grid-container > div {
   text-align: center;
