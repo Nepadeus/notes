@@ -1,7 +1,7 @@
 ---
 title: Gemsteine
 created: '2022-07-23T16:50:57.468Z'
-modified: '2022-07-27T21:31:43.537Z'
+modified: '2022-07-29T23:16:17.804Z'
 ---
 
 <div class="meta_for_parser tablespecs" style="visibility:hidden">Gemsteine</div>
@@ -380,27 +380,27 @@ Beschreibung|Ein unsichtbares Gas verzehrt das Licht um dich herum und macht es 
 
 ## 3. Schicht Vorkommen <a name="3"></a>
 
-6.	Jade - grün <a name="ß"></a>
+###	Jade - grün <a name="ß"></a>
 
 Hyper-Keimung|Level 3
 ---|:---
 Attribut|-
 Zeit|1 Aktion
-Reichweite|Berührung
+Reichweite|45 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Wähle eine Stelle in Reichweite. Von dem Punkt aus breitet sich in einem 30 m Radius ein dichtes Gestrüpp aus. Du kannst Bereiche deiner Wahl vom Befall auslassen. Überwachsene Areale kosten beim durchbewegen 4x so viel (Bei einer Bewegungsrate von 12 m kommt man nur 3 m weit.)
 
-7.	Jet - schwarz <a name="aa"></a>
+###	Jet - schwarz <a name="aa"></a>
 
 Fluch entfernen|Level 3
 ---|:---
-Attribut|-
+Attribut|Weisheit
 Zeit|1 Aktion
 Reichweite|Berührung
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Regeneriert 1D8+Mod an Leben von Fluch wieder und gibt der Person einen Vorteil beim nächsten Rettungswurf gegen den Abyss.
 
-8.	Pearl - weiß <a name="ab"></a>
+###	Pearl - weiß <a name="ab"></a>
 
 Glühpulver|Level 3
 ---|:---
@@ -408,9 +408,9 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|18 m
 Dauer|1 Stunde
-Beschreibung|
+Beschreibung|Der Edelstein erstrahlt und erleuchtet in einem 18 m um ihn herum alles in hellem Licht. bis 36 m ist es zusächlich dimm beleuchtet.
 
-9.	Spinel - grau <a name="ac"></a>
+###	Spinel - grau <a name="ac"></a>
 
 Phobien Serum|Level 3
 ---|:---
@@ -418,19 +418,19 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|32 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Du verbreitest ein Gas in einem 9 m Trichterareal vor dir, welches allen Kreaturen eine Illusion ihrer größten Angst zeigt. Alle Kreaturen welche diese Illusion wahrnehmen müssen einen Weisheitsrettungswurf ablegen um nicht benommen zu werden. Bis zum Effektende oder bei physischer Interaktion mit der Kreatur ist Sie kampfunfähig und hat eine Bewegungsrate von 0.
 
-10.	Tourmaline - grün <a name="ad"></a>
+###	Tourmaline - grün <a name="ad"></a>
 
 Abyssaler Negierer|Level 3
 ---|:---
-Attribut|-
+Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|32 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Wähle eine Kreatur in Reichweite. Negiere alle Edelsteineffekte von Level 3 oder niedriger. Für Edelsteine über Level 3 musst du einen Intelligenzcheck gegen 10 + Edelsteinlevel ablegen um ihn erfolgreich zu negieren. Auf Level 4 oder höher wird das automatische negieren um je ein Level erhöht.
 
-1.	Alexandrite - blau <a name="ae"></a>
+###	Alexandrite - blau <a name="ae"></a>
 
 Spannungsentladung|Level 3
 ---|:---
@@ -438,9 +438,9 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|Selbst
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Du beginnst eine elektrische Entladung welche 1,5 m breit und 30 m lang ist. Alle Kreaturen in dem Bereich müssen einen Dex-Rettungswurf bestehen um nur die Hälfte von 8D6 Blitzschaden zu erhalten. Die Blitze können brennbare Gegenstände entzünden. Ab Level 4 oder höher steigt der Schaden um je 1D6 an. 
 
-2.	Aquamarine - blau <a name="af"></a>
+###	Aquamarine - blau <a name="af"></a>
 
 Optische Psychosis|Level 3
 ---|:---
@@ -448,11 +448,11 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|32 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Du erschaffst in Reichweite ein optisch hypnotisierendes Farbspiel in einem Umkreis von 9 m. Jede Kreatur in diesem Umfeld muss einen Weisheitsrettungswurf ablegen um nicht alle Gegenstände, welches in der Hand hält abzuwerfen und ängstlich wegzurennen. Ist die Kreatur erfolgreich beängstigt muss Sie in ihrer Runde soweit es geht von dir wegsprinten. Sollte die Kreatur dich am Ende Ihres Zuges nicht mehr im Blickfeld haben, darf Sie den Rettungswurf erneut versuchen.
 
 ## 4. Schicht Vorkommen <a name="4"></a>
 
-3.	Black pearl - schwarz <a name="ag"></a>
+###	Black pearl - schwarz <a name="ag"></a>
 
 Schauerliche Illusion|Level 4
 ---|:---
@@ -460,9 +460,9 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|36 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Du manifestierst die größte Angst deines Widersachers welche nur für Sie sichtbar ist. Dein Ziel muss jede einen Weisheitsrettungswurf ablegen, um nicht 4D10 psychischen Schaden zu erleiden. Der Effekt endet bei einem erfolgreichen Rettungswurf. Ab Level 5 oder höher steigt der Schaden um je 1D10 an.
 
-4.	Blue spinel - blau <a name="ah"></a>
+###	Blue spinel - blau <a name="ah"></a>
 
 Abyssales Kraftfeld|Level 4
 ---|:---
@@ -470,9 +470,9 @@ Attribut|Weisheit
 Zeit|1 Aktion
 Reichweite|9 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Ein Feld mit einem 9 m Radius bildet sich um dich oder ein Ziel deiner Wahl. Ist das Ziel nicht willig, muss es einen Weisheitsrettungswurf ablegen. Das Kraftfeld ist immun gegen jeglichen Schaden und verhindert das Ein- und Ausdringen von Objekten. Nur der Beschwörer kann das Kraftfeld bewegen. Beim Auflösen des Kraftfeldes trifft der Fluch des Abyss alle Kreaturen im Feld mit doppelter Stärke.
 
-5.	Peridot - grün <a name="ai"></a>
+###	Peridot - grün <a name="ai"></a>
 
 Geruch aufdecken|Level 4
 ---|:---
@@ -480,9 +480,9 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|Selbst
 Dauer|Konzentration, 1 Stunde
-Beschreibung|
+Beschreibung|Der Nutzer kann den Geruch oder Spuren einer Kreatur bis zu 300 m nachverfolgen, sofern der Weg nicht mehr wie 1,5 m blockiert ist. Der Effekt wirkt nur bei Kreaturen, welche sich schon einmal in einem 9 m Umkreis zum Nutzer befanden.
 
-6.	Topaz - orange <a name="aj"></a>
+###	Topaz - orange <a name="aj"></a>
 
 Perfekte Tarnung|Level 4
 ---|:---
@@ -490,9 +490,9 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|1,5 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Dein Ziel und alles was Sie an sich trägt wird für die Dauer des Effektes unsichtbar. Das Ziel kann selber entscheiden den Effekt frühzeitg aufzulösen.
 
-1.	Black opal - schwarz <a name="ak"></a>
+###	Black opal - schwarz <a name="ak"></a>
 
 wildes Far Caress|Level 4
 ---|:---
@@ -500,9 +500,9 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|27 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Vom Edelstein schießen Schwarze Tentakel welche bis zu 6 m weit reichen und Gegnern welche Ihren Dex-Rettungswurf nicht bestehen 3D6 Wuchtschaden zufügen, sowie sie an Ort und Stelle fesselt. Sofern erfolgreich gefesselt kann die Kreatur in Ihrem Zug einen Stärke oder Dex-Rettungswurf ablegen, um sich aus den Tentakeln zu befreien.
 
-2.	Blue sapphire - blau <a name="al"></a>
+###	Blue sapphire - blau <a name="al"></a>
 
 Metallhaut|Level 4
 ---|:---
@@ -510,9 +510,9 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|Berührung
 Dauer|Konzentration, 1 Stunde
-Beschreibung|
+Beschreibung|Die Haut des Zieles wird mit einem flüssigen Metall überzogen, welches ihm für die Dauer des Effektes Resistenz gegen Wucht, Stich und Schnittschaden gibt.
 
-3.	Emerald - grün <a name="am"></a>
+###	Emerald - grün <a name="am"></a>
 
 Halluzinierendes Gelände|Level 4
 ---|:---
@@ -520,9 +520,9 @@ Attribut|Intelligenz
 Zeit|10 Minuten
 Reichweite|90 m
 Dauer|24 Stunden
-Beschreibung|
-
-4.	Fire opal - orange <a name="an"></a>
+Beschreibung|Du erschaffst eine 45 m² große Illusion eines Geländes deiner Wahl (Optisch, Akustisch und Olfaktisch). Sofern die Illusion beim Betreten dieses nicht sofort auffliegt, kann eine Kreatur einen Investigationswurf ablegen um die Illusion als solche zu erkennen.
+ 
+###	Fire opal - orange <a name="an"></a>
 
 Molekularer Synthetisierer|Level 4
 ---|:---
@@ -530,11 +530,11 @@ Attribut|-
 Zeit|10 Minuten
 Reichweite|27 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Du kannst aus rohmaterialien Endprodukte sofort herstellen. (zum Beispiel Seil aus mehreren Sträuchern) Das Objekt darf nicht größer als 3m³ sein oder länger als 12 m mit einer maximalhöhe von 1,5 m. Die Qualität des Endprodukts ist abhängig von den genutzten Rohstoffen. Kreaturen, Artefakte und Edelsteine können nicht erschafft oder verwendet werden. Objekte die eine Spezialisierung in ihrem Herstellungsprozess benötigen sind ebenso ausgenommen (Waffen, Glas, Schmuck) 
 
 ## 5. Schicht Vorkommen <a name="5"></a>
 
-5.	Opal - bunt <a name="ao"></a>
+###	Opal - bunt <a name="ao"></a>
 
 Gehirnwäschegas|Level 5
 ---|:---
@@ -542,9 +542,9 @@ Attribut|Weisheit
 Zeit|1 Minute
 Reichweite|18 m
 Dauer|30 Tage
-Beschreibung|
+Beschreibung|Du versprühst ein Gas das die Ziele einer Kreatur temporär überschreibt. Es kann eine Aufgabe, ein Verbot einer Aktion oder eine Dienstleistung sein. Sollte die Person dich verstehen können, muss es einen Weisheitsrettungswurf ablegen oder für den Zeitraum des Effektes der Gehirnwäsche ausgesetzt sein. Jedes Mal, wenn die Kreatur gegen seine Anweisung handelt, nimmt es 5D10 Psychischen Schaden, beschränkt auf einmal pro Tag. Du kannst keine Kreatur beinflussen, die nicht intelligent genug ist. Aktionen welche den Tod der Kreatur garantieren sind wirkungslos. Der Effekt lässt sich nach Wahl des Beschwörers frühzeitig beenden oder mithilfe des Abyssalen Negierers. Weißpfeifen sind immun gegen diesen Effekt. 
 
-6.	Star ruby - rot <a name="ap"></a>
+###	Star ruby - rot <a name="ap"></a>
 
 Stimmendieb|Level 5
 ---|:---
@@ -552,7 +552,7 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|-
 Dauer|1 Minute
-Beschreibung|
+Beschreibung|Du kannst telepatisch mit einer Person sprechen, welche du schon einmal getroffen hast. Sollte sich die Person auf einer anderen Schicht befinden, musst du einen Intelligenzrettungswurf ablegen um nicht wegen des Effektes des Abyssfluchs 6D6 Psychischen Schaden zu erleiden und bis zu deiner nächsten langen Rast wahnsinnig zu werden.
 
 7.	Star sapphire - blau <a name="aq"></a>
 
@@ -562,9 +562,9 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|Selbst
 Dauer|Sofort
-Beschreibung|
+Beschreibung|In einem 45° weiten Winkel und 18 m Länge erstreckt sich eine Druckwelle artischer Kälte. Alle Kreaturen in dem Bereich müssen einen Konstitutionsrettungswurf ablegen um nur den halben Schaden von 8D8 Kälteschaden zu erleiden und nicht zur Eisstatue zu erstarren. Auf Level 6 oder höher steigt der Schaden um je 1D8 an.
 
-8.	Yellow sapphire - gelb <a name="ar"></a>
+###	Yellow sapphire - gelb <a name="ar"></a>
 
 Gravitationsbrunnen|Level 5
 ---|:---
@@ -572,7 +572,7 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|27 m
 Dauer|Konzentration, 1 Minute
-Beschreibung|
+Beschreibung|Wähle ein Ziel in Reichweite welches einen Dex-Rettungswurf ablegen muss. Bei Misserfolg steckt es in einer Gravitationsfalle für die Dauer des Effektes. Am Ende jedes seiner Züge kann der Rettungswurf wiederholt werden. Auf Level 6 oder höher kann jeweils 1 Kreatur mehr betroffen werden.
 
 ## 6. Schicht Vorkommen (_Außer Reichweite_) <a name="6"></a>
 
@@ -584,17 +584,17 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|45 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Du triffst eine Kreatur deiner Wahl in Reichweite mit einem Blitzschlag, welcher sich dreiteilt und weitere Kreaturen in einem 9 m Umkreis trewffen kann. Jedes Ziel muss einen Dex-Rettungswurf bestehen um nur den halben Schaden von 10D8 Blitzschaden zu erleiden. Auf Level 7 oder höher steigt die Teilungsrate um je eins an.
 
 2.	Diamond - weiß <a name="at"></a>
 
 Proximale Wiederbelebung|Level 6
 ---|:---
-Attribut|-
+Attribut|Weisheit
 Zeit|1 Aktion
 Reichweite|18 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Eine Welle heilender Energie wird von einem Punkt in Reichweite ausgestoßen. Bis zu 6 Kreaturen in einem 9 m Radius erhalten 3D8+Mod Trefferpunkte wieder. Auf Level 6 oder höher steigt die Heilung um je 1D8 an.
 
 3.	Jacinth - rot <a name="au"></a>
 
@@ -604,7 +604,7 @@ Attribut|-
 Zeit|1 Aktion
 Reichweite|19 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Wähle ein Ziel in Reichweite und regeneriere 70 Trefferpunkte. Zusätzlich wird Blind- , Taubheit sowie jegliche Krankheit beendet. Ab Level 7 oder höher steigt die Heilung um je 10 an.
 
 4.	Ruby - blutrot <a name="av"></a>
 
@@ -614,6 +614,6 @@ Attribut|Intelligenz
 Zeit|1 Aktion
 Reichweite|45 m
 Dauer|Sofort
-Beschreibung|
+Beschreibung|Du versuchst das Bewusstsein einer Person zu zerstören. Dein Ziel nimmt 4D6 Psychischen Schaden und muss einen Intelligenzrettungswurf ablegen um nicht einen Charisma und Intelligenzwert von 1 zu erhalten. Die Kreatur kann keine Artefakte oder Edelsteine verwenden, versteht keine Sprachen und kann sich nicht verständigen. Sie kann immernoch Freunde erkennen, Sie Beschützen und Ihnen folgen. Nach 30 Tagen kann der Rettungswurf wiederholt werden. Der Effekt kann bei Weißpfeifen unter 50 Trefferpunkten wirken.
 
 </div>
