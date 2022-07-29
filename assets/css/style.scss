@@ -37,11 +37,11 @@ img {
  }
 .grid-container {
     margin-top: 3%;
-    top: 0%;
+    top: 3%;
+    height: 100%;
     display: grid;
-    grid-template-areas: 'nav main main main main';
+    grid-template-areas:'nav main main main main';
     gap: 10%;
-    padding: 14px 16px;
 }
 .grid-container > div {
   text-align: center;
