@@ -36,11 +36,11 @@ img {
     text-align: center;
  }
 .grid-container {
-    top: 3%;
+    margin-top: 3%;
     height: 100%;
     display: grid;
     grid-template-areas:'nav main';
-    gap: 10px;
+    gap: 210px;
 }
 .grid-container > div {
   text-align: center;
