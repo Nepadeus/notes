@@ -33,7 +33,7 @@ img {
 }
 .nav { 
     grid-area: nav;
-    position: fixed;
+    position: sticky;
     list-style-type: none;
     height: 95%;
     max-width: 400px;
@@ -60,7 +60,7 @@ img {
     margin: 0 auto;
 }
 #padded {
-    padding-left: 30%;
+   /* padding-left: 30%; */
 }
 td {
     width: 150px;
