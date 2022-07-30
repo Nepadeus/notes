@@ -31,14 +31,14 @@ img {
     height: 95%;
     overflow: auto;
     margin-right: 0px;
-    margin-left: auto;
+    margin-left: 10%;
 }
 .menu { 
     grid-area: main;
     text-align: center;
  }
 .grid-container {
-    margin-top: 20px;
+    margin-top: 25px;
     height: 100%;
     display: grid;
     grid-template-areas:'nav main main main main';
