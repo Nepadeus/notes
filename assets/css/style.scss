@@ -43,9 +43,9 @@ img {
     grid-template-areas:'nav main main main main';
     gap: 10px;
 }
-.grid-container > div {
+.grid-container, .nav > div {
   text-align: center;
-  padding: 100px 0;
+  padding: 20px 0;
 }
 .container {
     width: 90%;
