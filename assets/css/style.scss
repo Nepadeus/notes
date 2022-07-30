@@ -6,7 +6,7 @@
     .nav_list {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-        margin-left: 5%;
+        margin-left: 2%;
         margin-top: 0;
         width: 90%;
         position: fixed;
@@ -39,7 +39,7 @@ img {
     max-width: 400px;
     overflow: auto;
 }
-nav.sticky {
+.nav.sticky {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 20px;
