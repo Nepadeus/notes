@@ -40,8 +40,8 @@ img {
     top: 3%;
     height: 100%;
     display: grid;
-    grid-template-areas:'nav main main main main';
-    gap: 10%;
+    grid-template-areas:'nav main';
+    gap: 20%;
 }
 .grid-container > div {
   text-align: center;
