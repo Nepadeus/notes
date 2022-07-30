@@ -33,11 +33,12 @@ img {
 }
 .nav { 
     grid-area: nav;
-    position:-webkit-sticky;
+    position: sticky;
     list-style-type: none;
-    height: 95%;
+    top: 50px;
+    height: 5%;
     max-width: 400px;
-    overflow: auto;
+    overflow-y: auto;
 }
 .menu { 
     grid-area: main;
