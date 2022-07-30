@@ -9,6 +9,7 @@
         margin-left: 5%;
         margin-top: 0;
         width: 90%;
+        position: fixed;
         /* display: block; */
         border-bottom: 1px solid #82dc53;
         background: #1b1b1b;
@@ -25,6 +26,7 @@ img {
 
 .nav { 
     grid-area: nav;
+    position: fixed;
     list-style-type: none;
     height: 100%;
     overflow: auto;
